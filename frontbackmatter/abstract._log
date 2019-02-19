@@ -1,0 +1,17 @@
+Input File::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::0::0::Input File
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::1::0::Undefined control sequence. |\thispagestyle{fancy}  | <argument> \undefinedpagestyle  
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::4::0::Environment onehalfspacing undefined. |\begin{onehalfspacing}  
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::8::0::Undefined control sequence. |\section *{\huge Abstract}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::8::0::Missing \begin{document}. |\section* {\huge Abstract} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::8::0::Undefined control sequence. |\section*{\huge Abstract}
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::8::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 8--10
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::11::0::Missing \begin{document}. |\qquad More precisely, we'll show that determinacy of games over the re... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::11::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 11--12
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::13::0::Missing \begin{document}. |\qquad Next, Martin's result on Borel determinacy will be presented, as... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::13::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 13--14
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::13::0::Overfull \hbox (27.48314pt too wide) in paragraph at lines 13--14
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::13::0::Overfull \hbox (16.86656pt too wide) in paragraph at lines 13--14
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::13::0::Overfull \hbox (26.5776pt too wide) in paragraph at lines 13--14
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/abstract.tex::15::0::\begin{document} ended by \end{onehalfspacing}. |\end{onehalfspacing}  
+LaTeX Error::.../Games/Project/frontbackmatter/abstract.tex::0::0::Emergency stop. (job aborted, no legal \end found)
+LaTeX Error::0::0::0:: ==> Fatal error occurred, no output PDF file produced! 

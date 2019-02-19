@@ -1,0 +1,36 @@
+\begin{thebibliography}{Kan09}
+
+\bibitem[Kan09]{Kanamori}
+Akihiro Kanamori.
+\newblock {\em The Higher Infinite}.
+\newblock Springer-Verlag, second edition, 2009.
+
+\bibitem[Kec95]{Kechris}
+Alexander~S. Kechris.
+\newblock {\em Classical Descriptive Set Theory}.
+\newblock Springer-Verlag, 1995.
+
+\bibitem[Mar98]{BlDet}
+Donald~A. Martin.
+\newblock The determinacy of blackwell games.
+\newblock {\em The Journal of Symbolic Logic}, 63(4):1565--1581, 1998.
+
+\bibitem[MS62]{AD}
+Jan Mycielski and Hugo Steinhaus.
+\newblock A mathematical axiom contradicting the axiom of choice.
+\newblock {\em Bulletin de l'Académie Polonaise des Sciences, Série des
+  Sciences Mathématiques, Astronomiques et Physiques}, 10:778--781, 1962.
+
+\bibitem[vN28]{vonNeumann}
+John von Neumann.
+\newblock Zur theorie der gesellschaftsspiele.
+\newblock {\em Mathemathische Annalen}, 100:295--320, 1928.
+
+\bibitem[Zer13]{Zermelo}
+Ernst Zermelo.
+\newblock Über eine anwendung der mengenlehre auf die theorie des
+  schachspiels.
+\newblock {\em Proceedings of the Fifth International Congress of
+  Mathematicians}, 2:501--504, 1913.
+
+\end{thebibliography}

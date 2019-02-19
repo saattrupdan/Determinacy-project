@@ -1,0 +1,454 @@
+Input File::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::0::0::Input File
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::1::0::Undefined control sequence. |\chapter {Preliminaries}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::1::0::Missing \begin{document}. |\chapter{P reliminaries} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::2::0::Undefined control sequence. |\thispagestyle{fancy}  | <argument> \undefinedpagestyle  
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::1::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 1--4
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::5::0::Undefined control sequence. |\section {Polish spaces and trees}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::5::0::Missing \begin{document}. |\section{P olish spaces and trees} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::5::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::7::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::8::0::Missing \begin{document}. |A \textbf{Polish space} is a completely metrizable separable space. 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::8::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 8--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::8::0::Overfull \hbox (20.31934pt too wide) in paragraph at lines 8--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::8::0::Overfull \hbox (14.11935pt too wide) in paragraph at lines 8--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::8::0::Overfull \hbox (26.89705pt too wide) in paragraph at lines 8--10
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::11::0::Undefined control sequence. |\qprop {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::Missing \begin{document}. |F or any discrete space $X$, ${^\omega X}$ is Polish with the product to... 
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::   External font `cmex10' loaded for size <5>.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 12--14
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 12--14
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::12::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 12--14
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Missing \begin{document}. |T hus in particular the \textbf{Baire space} $\n:={^\omega\omega}$ and t... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Undefined control sequence. |...in particular the \textbf{Baire space} $\n :={^\omega\omega}$ and the...
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Command \c invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Command \c invalid in math mode.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::   Try loading font information for +cmr.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::   No file cmr.fd..
+LaTeX Font Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Font shape `/cmr/m/n' undefined using `/cmr/m/n' instead.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Corrupted NFSS tables. |...omega}$ and the \textbf{Cantor space} $\c: ={^\omega 2}$ are both Pol... | wrong@fontshape ...message {Corrupted NFSS tables} error@fontshape else let f...
+LaTeX Font Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Font shape `/cmr/m/n' undefined using `OT1/cmr/m/n' instead.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Please use \mathaccent for accents in math mode. |...omega}$ and the \textbf{Cantor space} $\c: ={^\omega 2}$ are both Pol...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Missing { inserted. |...omega}$ and the \textbf{Cantor space} $\c: ={^\omega 2}$ are both Pol...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Missing } inserted. |...he \textbf{Cantor space} $\c:={^\omega 2}$ are both Polish.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (26.97208pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (26.89705pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (10.55559pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (12.37224pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (24.1179pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (14.95827pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (26.89705pt too wide) in paragraph at lines 15--16
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::15::0::Overfull \hbox (26.89995pt too wide) in paragraph at lines 15--16
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::17::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Missing \begin{document}. |L et $X$ be a set. Then a \textbf{tree} on $X$ is a subset $T\subset{^{<... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (19.74992pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (17.78816pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (21.10837pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (13.05551pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (14.1319pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (21.10837pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (16.38884pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (14.1319pt too wide) in paragraph at lines 18--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::18::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 18--20
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::21::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Missing \begin{document}. |A tree $T$ is \textbf{pruned} if any branch can be extended, i.e. that ... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (35.56233pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (14.1319pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (13.05551pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 22--24
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::22::0::Overfull \hbox (3.61111pt too wide) in paragraph at lines 22--24
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::25::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Missing \begin{document}. |T he \textbf{body} of a tree $T$ on $X$, denoted $[T]$, is the set of \t... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Undefined control sequence. |...n{^\omega X}\mid \forall n<\omega: x\restr n\in T\}$.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (25.23598pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (12.26659pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (9.19994pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (16.611pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (37.43861pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (26.12152pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (20.15968pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (20.41385pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (22.11343pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (12.13881pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (21.16202pt too wide) in paragraph at lines 26--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::26::0::Overfull \hbox (12.23267pt too wide) in paragraph at lines 26--28
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Missing \begin{document}. |W e give $^\omega X$ the product topology, so that the basic open sets b... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (25.64233pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (20.15968pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (20.41385pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (10.71529pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (14.1319pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (21.10837pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 29--30
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::29::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 29--30
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::31::0::Undefined control sequence. |\qprop {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Missing \begin{document}. |L et $X$ be a set and $T$ a pruned tree on $X$. Then $[T]$ is closed, an... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 32--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::32::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 32--34
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::35::0::Undefined control sequence. |\prop [ZF]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::35::0::Missing \begin{document}. |\prop[ ZF]{ 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::35::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 35--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::35::0::Overfull \hbox (22.18742pt too wide) in paragraph at lines 35--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::35::0::Overfull \hbox (21.10837pt too wide) in paragraph at lines 35--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::39::0::Overfull \hbox (18.97572pt too wide) in paragraph at lines 39--40
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::39::0::Overfull \hbox (11.55556pt too wide) in paragraph at lines 39--40
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::39::0::Overfull \hbox (5.00002pt too wide) in paragraph at lines 39--40
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::39::0::Overfull \hbox (12.30904pt too wide) in paragraph at lines 39--40
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::39::0::Overfull \hbox (11.55556pt too wide) in paragraph at lines 39--40
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::40::0::Overfull \hbox (20.08684pt too wide) in paragraph at lines 40--41
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::40::0::Overfull \hbox (11.55556pt too wide) in paragraph at lines 40--41
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::41::0::Overfull \hbox (12.30904pt too wide) in paragraph at lines 41--42
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::42::0::Overfull \hbox (18.47354pt too wide) in paragraph at lines 42--43
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::42::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 42--43
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::45::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::46::0::Missing \begin{document}. |S ee \cite[Exercise 0.8]{Kanamori} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::46::0::Undefined control sequence. |See \cite[Exercise 0.8]{Kanamori}  | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::46::0::Citation `Kanamori' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::46::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 46--48
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::46::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 46--48
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::49::0::Undefined control sequence. |\section {Borel and analytic sets}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::49::0::Missing \begin{document}. |\section{B orel and analytic sets} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::49::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 49--50
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::51::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Missing \begin{document}. |L et $X$ be a topological space. Then the \textbf{Borel sets} of $X$, de... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Undefined control sequence. |...extbf{Borel sets} of $X$, denoted $\mathbb {B}(X)$, is the smallest $...
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (27.13182pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (18.81516pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (24.93404pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 52--54
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::52::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 52--54
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing \begin{document}. |W e can also characterize the Borel sets more constructively. For $X$ a ... 
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (28.55559pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (25.31944pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (25.04173pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (11.70836pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (35.05818pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (46.25302pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (20.2737pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::55::0::Overfull \hbox (52.49536pt too wide) in paragraph at lines 55--56
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::57::0::Undefined control sequence. |\qprop {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Missing \begin{document}. |F or any topological space $X$ we have that $\mathbb{B}(X)=\bigcup_{\xi<... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Undefined control sequence. |...opological space $X$ we have that $\mathbb {B}(X)=\bigcup_{\xi<\omega...
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 58--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 58--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Overfull \hbox (35.48955pt too wide) in paragraph at lines 58--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Overfull \hbox (51.83208pt too wide) in paragraph at lines 58--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::58::0::Overfull \hbox (41.55435pt too wide) in paragraph at lines 58--60
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::61::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Missing \begin{document}. |L et $X$ be a Polish space. Then $A\subset X$ is \textbf{analytic} if it... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (15.8124pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (9.42354pt too wide) in paragraph at lines 62--64
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::62::0::Overfull \hbox (22.04155pt too wide) in paragraph at lines 62--64
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::65::0::Undefined control sequence. |\prop {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Missing \begin{document}. |F or $X$ a Polish space, $A\subset X$ is analytic iff there exists a clo... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Undefined control sequence. |...exists a closed subset $C\subset X\times\n $ such that $\pi_1(C)=A$, ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Undefined control sequence. |... that $\pi_1(C)=A$, where $\pi_1:X\times\n \to X$ is the first projec...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::68::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::69::0::Undefined control sequence. |See \cite[Exercise 14.3]{Kechris}  | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::69::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (16.84723pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (36.3822pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (15.7419pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (29.62495pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 66--71
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::66::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 66--71
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Undefined control sequence. |\theo [Lusin-Souslin]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Missing \begin{document}. |\theo[ Lusin-Souslin]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::75::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::76::0::Undefined control sequence. |See \cite[Theorem 13.7]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::76::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 72--78
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 72--78
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Overfull \hbox (18.64232pt too wide) in paragraph at lines 72--78
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 72--78
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::72::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 72--78
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::79::0::Undefined control sequence. |\section {Baire property}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::79::0::Missing \begin{document}. |\section{B aire property} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::79::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 79--80
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::81::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Missing \begin{document}. |L et $X$ be a topological space. Then a subset $A\subset X$ is \textbf{n... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (41.79147pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (27.85541pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (16.84723pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (24.27763pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (15.75688pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (35.13869pt too wide) in paragraph at lines 82--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::82::0::Overfull \hbox (15.75688pt too wide) in paragraph at lines 82--84
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::84::0::The font size command \normalsize is not defined: | there is probably something wrong with the class file. 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::84::0::Undefined control sequence. | <write> \newlabel{apxA}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::84::0::Undefined control sequence. | <write> \newlabel{0.8 prop}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::85::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Missing \begin{document}. |T wo subspaces $A,B\subset X$ are \textbf{equal modulo meager sets}, wri... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (30.58675pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (26.51373pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (25.87486pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (15.33325pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (24.27763pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (15.75688pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (18.81516pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (22.65276pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (8.0868pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (24.47572pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (37.80902pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (15.27782pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (14.7535pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (15.86461pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::86::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 86--88
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::89::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Missing \begin{document}. |F or $X$ any topological space, a subset $A\subset X$ has the \textbf{Ba... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Undefined control sequence. |... there exists an open set $U\subset\mathbb {R}$ such that $A=_*U$.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (26.97208pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (27.09709pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (20.22908pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (18.47354pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (7.67015pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (22.65276pt too wide) in paragraph at lines 90--92
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::90::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 90--92
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Undefined control sequence. |\theo [Baire Category Theorem]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Missing \begin{document}. |\theo[ Baire Category Theorem]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::97::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::98::0::Undefined control sequence. |See \cite[Theorem 8.4]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::98::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::93::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 93--100
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Undefined control sequence. |\prop [AC]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Missing \begin{document}. |\prop[ AC]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::103::0::Undefined control sequence. |There exists a subset $A\subset\mathbb {R}$ not having the Baire property.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::105::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::106::0::Undefined control sequence. |See \cite[Example 8.24]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::106::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 101--108
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 101--108
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Overfull \hbox (7.67015pt too wide) in paragraph at lines 101--108
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::101::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 101--108
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::109::0::Undefined control sequence. |\section {Perfect set property}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::109::0::Missing \begin{document}. |\section{P erfect set property} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::109::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 109--110
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::111::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Missing \begin{document}. |L et $X$ be a topological space. Then $A\subset X$ is \textbf{perfect} ... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (20.54852pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (18.36797pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (15.84435pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (20.18874pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (25.81094pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (14.73029pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (25.84143pt too wide) in paragraph at lines 112--114
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::112::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 112--114
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::115::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Missing \begin{document}. |L et $X$ be a Polish space. Then $A\subset X$ has the \textbf{perfect s... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (20.54852pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (18.36797pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (14.27908pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (27.09709pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (20.22908pt too wide) in paragraph at lines 116--118
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::116::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 116--118
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::119::0::Undefined control sequence. |\theo {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Missing \begin{document}. |L et $X$ be a Polish space. Then every analytic subset $A\subset X$ has... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::122::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::123::0::Undefined control sequence. |See \cite[Exercise 14.13]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::123::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 120--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 120--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 120--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 120--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::120::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 120--125
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::126::0::Undefined control sequence. |\section {Lebesgue measurability}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::126::0::Missing \begin{document}. |\section{L ebesgue measurability} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::126::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 126--127
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::128::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Missing \begin{document}. |A set $A\subset\n$ is \textbf{Lebesgue measurable} if there is a Borel... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Undefined control sequence. |A set $A\subset\n $ is \textbf{Lebesgue measurable} if there is a Borel...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Undefined control sequence. |...able} if there is a Borel set $B\subset\n $ such that $A\triangle B$...
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (46.11226pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (24.27763pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (19.49434pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (20.44432pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (18.64232pt too wide) in paragraph at lines 129--131
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::129::0::Overfull \hbox (24.47572pt too wide) in paragraph at lines 129--131
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::132::0::Missing \begin{document}. |W e denote the Lebesgue measure as $\lambda$, both for the Borel measur... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::132::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 132--133
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::132::0::Overfull \hbox (5.83336pt too wide) in paragraph at lines 132--133
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::134::0::Undefined control sequence. |\lemm {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::136::0::Missing \begin{document}. |L et $A\subset\n$ be a Lebesgue measurable set. Then 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::136::0::Undefined control sequence. |Let $A\subset\n $ be a Lebesgue measurable set. Then
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::136::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 136--137
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::136::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 136--137
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Undefined control sequence. |...ilon>0$ there is a closed set $C\subset\n $ and an open set $U\subse...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Undefined control sequence. |... $C\subset\n$ and an open set $U\subset\n $ such that $C\subset A\su...
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (15.21869pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (5.00002pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (18.47354pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (25.41809pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (22.3069pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::138::0::Overfull \hbox (4.66318pt too wide) in paragraph at lines 138--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (11.81566pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (12.25104pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (8.02779pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (19.62494pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (8.02779pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (33.2361pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (31.66669pt too wide) in paragraph at lines 139--140
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::139::0::Overfull \hbox (21.63895pt too wide) in paragraph at lines 139--140
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::142::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::143::0::Missing \begin{document}. |S ee \cite[Lemma 0.9]{Kanamori} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::143::0::Undefined control sequence. |See \cite[Lemma 0.9]{Kanamori}  | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::143::0::Citation `Kanamori' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::143::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 143--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::143::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 143--145
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::146::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Missing \begin{document}. |A measurable space $(X,\mathcal{A})$ is a \textbf{standard Borel space... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Undefined control sequence. |...y $\mathcal{T}$ on $X$ such that $\mathbb {B}(\mathcal{T})=\mathcal{...
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (28.7208pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (24.82066pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (23.10403pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (27.13182pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (26.89705pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (7.98811pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (34.40823pt too wide) in paragraph at lines 147--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::147::0::Overfull \hbox (7.98471pt too wide) in paragraph at lines 147--149
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Undefined control sequence. |\theo [Lusin]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Missing \begin{document}. |\theo[ Lusin]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::154::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::155::0::Undefined control sequence. |See \cite[Theorem 29.7]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::155::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 150--157
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 150--157
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 150--157
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 150--157
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::150::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 150--157
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Undefined control sequence. |\theo [Lusin]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Missing \begin{document}. |\theo[ Lusin]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::160::0::Undefined control sequence. |...$\mu(X-C)<\varepsilon$ such that $f\restr C$ is continuous.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::162::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::163::0::Undefined control sequence. |See \cite[Theorem 17.12]{Kechris} . | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::163::0::Citation `Kechris' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (6.02548pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (8.02779pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (21.84715pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (8.02779pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (6.02548pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (15.21869pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (5.00002pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (18.418pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (26.76161pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (22.3069pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (4.66318pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (13.83475pt too wide) in paragraph at lines 158--165
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::158::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 158--165
+LaTeX Error::...pbox/Games/Project/frontbackmatter/apxA.tex::0::0::Emergency stop. (job aborted, no legal \end found)
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/apxA.tex::0::0:: ==> Fatal error occurred, no output PDF file produced! 

@@ -1,0 +1,160 @@
+\chapter{Analytic determinacy}
+\thispagestyle{fancy}
+\label{ch4}
+
+We now move on to the natural next step: to prove determinacy of analytic games. However, as we'll show, this turns out to be unprovable in $\zfc$, so we'll prove it in the presence of a large cardinal, called a \textit{Ramsey cardinal}.
+
+\section{Ramsey cardinals}
+
+Ramsey cardinals are cardinals defined in a combinatorial context, generalising a classical theorem of Ramsey. It will be defined in terms of a \textit{partition property}, which is defined as follows.
+
+\defi{
+The statement $\beta\to(\alpha)^\gamma_\delta$ means that every function (also called a \textit{colouring}) $c:[\beta]^\gamma\to\delta$ has a \textit{homogeneous} set $H\in[\beta]^\alpha$, meaning that $|c"[H]^\gamma|\leq 1$. Furthermore $\beta\to(\alpha)_\delta^{<\omega}$ means that given $c:[\beta]^{<\omega}\to\delta$, there's a set $H\in[\beta]^\alpha$ which is homogeneous for every $c\restr[\beta]^n$.
+}
+
+Note that if $H$ is a homogeneous set for $c:[\kappa]^{<\omega}\to\delta$, we might have that $c"[\kappa]^n\neq c"[\kappa]^m$ for $m\neq n$.
+
+\defi{
+A cardinal $\kappa$ is \textbf{Ramsey} if $\kappa\to(\kappa)^{<\omega}_2$.
+}
+
+The reason why the cardinals are called Ramsey is due to \textit{Ramsey's Theorem}, stating that $\omega\to(\omega)^n_k$ holds for all $n,k<\omega$. Note that this doesn't imply that $\omega$ is Ramsey, however.
+
+\prop{
+$\kappa$ is Ramsey iff $\kappa\to(\kappa)^{<\omega}_\delta$ for every $\delta<\kappa$.
+}
+\proof{
+$``\Leftarrow"$ is clear. Assume thus that $\kappa\to(\kappa)^{<\omega}_2$ and $c:[\kappa]^{<\omega}\to\delta$ a colouring with $\delta<\kappa$. Define $\tilde c:[\kappa]^{<\omega}\to 2$ by
+\eq{
+\tilde c(\xi_1,\hdots,\xi_n):=\left\{\begin{array}{ll}0 &, (\exists m<\omega)(n=2m\land c(\xi_1,\hdots,\xi_m)=c(\xi_{m+1},\hdots,\xi_n))\\
+1 &, \text{otherwise}\end{array}\right.
+}
+
+Let $H\in[\kappa]^\kappa$ be a homogeneous set for $\tilde c$. Let $n=2m<\omega$ be given. We must have that there are $s,t\in[H]^m$ satisfying both that $\max(s)<\min(t)$ and $c(s)=c(t)$, as otherwise $\delta\geq\kappa$. But then $\tilde c(s\cup t)=0$, meaning $\tilde c"[H]^n=\{0\}$ for even numbers $n<\omega$ by homogeneity.
+
+\qquad Now take $s,t\in[H]^m$ for any $m<\omega$. Then $s\cup t\in[H]^{2m}$, so $\tilde c(s\cup t)=0$, meaning $c(s)=c(t)$, whence we may conclude that $H$ is homogeneous for $c$ as well.
+}
+
+\prop{
+\label{ramseyequiv prop}
+A cardinal $\kappa$ is Ramsey iff for every $\delta<\kappa$ and every countable collection of colourings $c_i:[\kappa]^{m_i}\to\delta$ with $m_i<\omega$ there's a set $H\in[\kappa]^\kappa$ such that $|c_i"[H]^{m_i}|\leq 1$ for every $i<\omega$.
+}
+\proof{
+$``\Leftarrow"$: Let $c:[\kappa]^{<\omega}\to\delta$ and choose $H\in[\kappa]^\kappa$ for the set $\{c\restr[\kappa]^n\mid n<\omega\}$.
+
+$``\Rightarrow"$: Let $X:=\{c_i:[\kappa]^{m_i}\to\delta\}$ be given. Note that given a colouring $c:[\kappa]^m\to\delta$ and $n\geq m$ we can always extend $c$ to $\tilde c:[\kappa]^n\to\delta$ such that a homogeneous set for $\tilde c$ is also a homogeneous set for $c$. Indeed, just set $\tilde c(\{\alpha_1,\hdots,\alpha_n\}):=c(\{\alpha_1,\hdots,\alpha_m\})$.
+
+\qquad Now we can just recursively extend the $c_i$'s such that their domains are disjoint, so that we get an induced colouring $c:[\kappa]^{<\omega}\to\delta$ which then has a homogeneous set as $\kappa$ is Ramsey. But then every $c_i$ has a homogeneous set as well by the previous statement.
+}
+
+\section{Kleene-Brouwer ordering}
+Our argument is going to make crucial use of a well-ordering property implied by the existence of a Ramsey cardinal. The well-ordering property will concern an ordering called the \textit{Kleene-Brouwer ordering}, which we'll introduce here.
+
+\defi{
+The \textbf{Kleene-Brouwer ordering} on $^{<\omega}\on$ is given by
+\eq{
+s\kb t &\Lr s\supset t\lor s(\iota)<t(\iota),
+}
+
+where $\iota:=\min\{i<\omega\mid s(i)\neq t(i)\}$.
+}
+
+One can (informally) think of the ordering as $s\kb t$ iff $s\cc\bra{\infty,\infty,\hdots}$ is lexicographically less than $t\cc\bra{\infty,\infty,\hdots}$, where $\infty$ is formally greater than all the ordinals.
+
+\lemm{
+\label{kb lemma}
+Let $\alpha\in\on$ and $T$ a tree on $\alpha$. Then $T$ is well-founded iff $T$ is well-ordered by $\kb$.
+}
+\proof{
+We'll prove that $T$ is ill-founded iff $(T,\kb)$ is ill-founded.
+
+\qquad $``\Rightarrow"$: Let $\{s_i\in T\mid i<\omega\}$ satisfy $s_{i+1}\kb s_i$ for every $i<\omega$. For $i<\omega$ set $n_i:=\min\{s_j(i)\mid j<\omega\}$. Note that $n_i$ is non-empty for every $i<\omega$ as otherwise $\{s_i\in T\mid i<\omega\}\subset{^{<n}\alpha}$ for some $n<\omega$, and $({^{<n}}\alpha,\kb)$ is clearly a well-ordering, which contradicts how we defined the $s_i$'s. Now we have an infinite branch $x\in[T]$ defined as $x(i):=n_i$, which means that $T$ is ill-founded.
+
+\qquad $"\Leftarrow"$: Let $x\in[T]$ be an infinite branch. Then $x\restr n+1\kb x\restr n$ for every $n<\omega$, so $(T,\kb)$ is ill-founded.
+}
+
+\section{Analytic determinacy}
+
+\defi{
+\textbf{Analytic determinacy} is the statement that every analytic game $G_\omega(A)$ over $\n$ is determined.
+}
+
+\lemm{
+\label{analytic lemma}
+Let $A\subset\n$ be analytic. Then there is a tree on $\omega\times\omega$ such that $x\notin A$ iff $(T_x,\kb)$ embeds into $(\omega_1,<)$, where $\kb$ is the Kleene-Brouwer ordering on $^{<\omega}\on$ and $T_x$ is the \textit{section tree} on $\omega$:
+\eq{
+T_x:=\{p\in\tree\mid (x\restr\len(p),p)\in T\}.
+}
+}
+\proof{
+Since analytic sets are projections of closed sets, there's a closed set $C\subset\n\times\n$ such that $A=\pi_1(C)$, where $\pi_1:\n\times\n\to\n$ is the projection onto the first coordinate. But then there's a tree $T\subset{^{<\omega}(\omega\times\omega)}$ such that $[T]=C$. By now we then have that
+\eq{
+x\notin A&\Lr\forall y\in C: \pi_1(y)\neq x\\
+&\Lr T_x\text{ is well-founded}\\
+&\Lr (T_x,\kb)\text{ is well-ordered (Lemma \ref{kb lemma})}\\
+&\Lr (T_x,\kb)\text{ embeds into }(\omega_1,<),
+}
+
+so we're done.
+}
+
+Now for the main result of this section, that it's relatively consistent to assume that analytic determinacy is true:
+
+\theo[Martin]{
+If there exists a Ramsey cardinal then analytic determinacy holds.
+}
+\proof{
+Let $\{s_i\mid i<\omega\}$ be the enumeration of $^{<\omega}\omega$. Let $A\subset\n$ be analytic and let $T$ be given by Lemma \ref{analytic lemma}, meaning that
+\eq{
+x\notin A \Lr (T_x,\kb)\text{ embeds into }(\omega_1,<). \tag*{$(1)$}
+}
+
+Let $\kappa$ be a Ramsey cardinal, $G_\omega(A)$ be given and define the game $G^\star$ as
+\game{x_0}{(x_1,\eta_0)}{x_2}{(x_3,\eta_1)}{x_4}{(x_5,\eta_2)}{\cdots}{\cdots}
+
+where $x_i\in\omega$ and $\eta_i\in\kappa$. Player II wins this game iff
+\begin{enumerate}
+\item $(\forall s_i\notin T_x)(\eta_i=0)$ and
+\item $(\forall s_i,s_j\in T_x)(s_i\kb s_j\Lr \eta_i<\eta_j)$.\\
+\end{enumerate}
+
+By (1), this means that if player II wins in $G^\star$ he also wins in $G_\omega(A)$, since the win in $G^\star$ grants him with an embedding $f:(T_x,\kb)\to(\kappa,<)$ given by $f(s_i):=\eta_i$, which induces an embedding $(T_x,\kb)\to(\omega_1,<)$ as $T_x$ is countable.
+
+\qquad Note that since $G^\star$ is an open game for player I since the payoff set defined by the negation of (i) and (ii) above are open criteria. Hence $G^\star$ is determined by the Gale-Stewart Theorem \ref{GaleStewart theo}.
+
+\qquad All that remains to show is therefore that if player I has a winning strategy $\sigma^\star$ in $G^\star$ then player I also has a winning strategy in $G_\omega(A)$. For any $s\in{^{2n}\omega}$ define the set
+\eq{
+D_s:=\{s_i\in{^{<\omega}\omega}\mid i<n\land(s\restr\len(s_i),s_i)\in T\}
+}
+
+and note that $s\subset t\Rightarrow D_s\subset D_t$. Furthermore we see that $T_x=\bigcup\{D_s\mid s\subset x\}$. Let now $p\in{^{2n}\omega}$ be given and set $m:=|D_p|$. Then for any $Q\in[\kappa]^m$ there's a \textit{unique} function $n\to\kappa$ defined by $i\mapsto\xi_i^{p,Q}$ satisfying
+\begin{itemize}
+\item $(\forall s_i\notin D_p)(\xi_i^{p,Q}=0)$;
+\item $(\forall s_i\in D_p)(\xi_i^{p,Q}\in Q)$;
+\item $(\forall s_i,s_j\in D_p)(s_i\kb s_j\Lr \xi_i^{p,Q}<\xi_j^{p,Q})$.
+\end{itemize}
+
+Existence and uniqueness of such a function is clear, making us able to define a colouring $c_p:[\kappa]^m\to\omega$ for every $p=\bra{p_0,\hdots,p_{2n-1}}\in{^{2n}\omega}$ as 
+\eq{
+c_p(Q):=\sigma^\star(\bra{p_0,(p_1,\xi_0^{p,Q}),p_2,(p_3,\xi_1^{p,Q}),\hdots,p_{2n-2},(p_{2n-1},\xi_{n-1}^{p,Q})}).
+}
+
+Now use that $\kappa$ is Ramsey and Proposition \ref{ramseyequiv prop} to find a homogeneous set $H\subset\kappa$ with $|H|=\aleph_1$ for the countably many $c_p$ with $\len(p)$ even -- i.e. satisfying that $|c_p"[H]^n|=1$ for $p\in{^{2n}\omega}$. Then define a strategy $\sigma$ for player I in $G_\omega(A)$ as
+\eq{
+\sigma(p):=c_p(Q),
+}
+
+for any, hence all, $Q\in[H]^n$, where $p\in{^{2n}\omega}$.
+
+\qquad To see that $\sigma$ is winning, assume towards a contradiction that it's not, meaning that there's a play $x\in\n$ such that $x\notin A$ even though $x$ followed $\sigma$. By (1) this means that we have an embedding $\tilde\eta:(T_x,\kb)\to(\omega_1,<)$ and since $|H|=\aleph_1$ we also have an embedding
+\eq{
+\eta:(T_x,\kb)\to (H,<),
+}
+
+which can be extended to entire $\tree$ by setting $\eta(t):=0$ for $t\notin T_x$. Setting $\bigcup_{n<\omega}{^{2n}\omega}=\{u_i\mid i<\omega\}$ be an enumeration, we see that
+\game{x_0}{(x_1,\eta(u_0))}{x_2}{(x_3,\eta(u_1))}{x_4}{(x_5,\eta(u_2))}{\cdots}{\cdots}
+
+is a play in $G^\star$ consistent with $\sigma^\star$ as every $\eta(u_i)\in H$, so $x\in A$, $\contr$. Hence $\sigma$ is winning and $G_\omega(A)$ is determined.
+}
+
+Note that we've only shown that analytic determinacy is relatively consistent with the existence of a Ramsey cardinal, so Ramsey is an ``upper bound'' for consistency. It turns out that the exact consistency strength of analytic determinacy is the existence of $x^\sharp$ for every real $x$ -- see \cite[Theorem 31.2 \& 31.5]{Kanamori}.

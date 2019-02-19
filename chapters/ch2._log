@@ -1,0 +1,1103 @@
+Input File::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::0::0::Input File
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::1::0::Undefined control sequence. |\chapter {Borel determinacy}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::1::0::Missing \begin{document}. |\chapter{B orel determinacy} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::2::0::Undefined control sequence. |\thispagestyle{fancy}  | <argument> \undefinedpagestyle  
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::1::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 1--4
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::5::0::Missing \begin{document}. |N ow that we've seen several positive consequences of the determinacy of ... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::5::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::7::0::Undefined control sequence. |\section {Determinacy of open and closed games}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::7::0::Missing \begin{document}. |\section{D eterminacy of open and closed games} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::7::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 7--8
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::9::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Missing \begin{document}. |A \textbf{quasistrategy} $\Sigma$ in $G_X(T)$ is a nonempty set of stra... 
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::   External font `cmex10' loaded for size <5>.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Undefined control sequence. |\game {\sigma_0(\bra{})}{y_0}{\sigma_1(\bra{\sigma_0(\bra{}),y_0})}{y_1}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Undefined control sequence. |\game{\sigma_0(\bra {})}{y_0}{\sigma_1(\bra{\sigma_0(\bra{}),y_0})}{y_1}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Extra }, or forgotten $. |\game{\sigma_0(\bra{})} {y_0}{\sigma_1(\bra{\sigma_0(\bra{}),y_0})}{y_1}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Undefined control sequence. |\game{\sigma_0(\bra{})}{y_0}{\sigma_1(\bra {\sigma_0(\bra{}),y_0})}{y_1}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::11::0::Undefined control sequence. |...(\bra{})}{y_0}{\sigma_1(\bra{\sigma_0(\bra {}),y_0})}{y_1}{\cdots}{\c...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::12::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (21.8818pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (16.09988pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (23.10403pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (17.0902pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (14.706pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (12.22224pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (5.2616pt too wide) in paragraph at lines 10--12
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::10::0::Overfull \hbox (109.87865pt too wide) in paragraph at lines 10--12
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Missing \begin{document}. |w here $\sigma_i\in\Sigma$ for every $i<\omega$. A quasistrategy $\Sigma... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (18.48781pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (21.7221pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (21.7221pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (44.63113pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (15.81711pt too wide) in paragraph at lines 13--15
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::13::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 13--15
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Missing \begin{document}. |S ay that a position $\bra{x_0,\hdots,x_{2n-1}}\in T$ in $G_X(T,A)$ is \... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Undefined control sequence. |Say that a position $\bra {x_0,\hdots,x_{2n-1}}\in T$ in $G_X(T,A)$ is \...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Undefined control sequence. |Say that a position $\bra{x_0,\hdots ,x_{2n-1}}\in T$ in $G_X(T,A)$ is \...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::17::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::18::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::18::0::Undefined control sequence. |\Sigma:=\{\sigma\mid\godel {\sigma\text{ is a strategy for player I}}\la...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::18::0::Undefined control sequence. |\Sigma:=\{\sigma\mid\godel{\sigma\text { is a strategy for player I}}\la...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::18::0::Undefined control sequence. |...y for player I}}\land\forall s\in T:\godel {\sigma(s)\text{ is not lo...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::18::0::Undefined control sequence. |...}\land\forall s\in T:\godel{\sigma(s)\text { is not losing}}\},
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::19::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::20::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (53.9155pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (16.61102pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (17.31378pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (15.33325pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (33.0623pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (7.02774pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (13.89574pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (21.8818pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (16.09988pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (23.10403pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (17.0902pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (20.55553pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (16.62842pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (112.18376pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (19.68747pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (12.78815pt too wide) in paragraph at lines 16--20
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::16::0::Overfull \hbox (76.20058pt too wide) in paragraph at lines 16--20
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::21::0::Missing \begin{document}. |a nd analogously for player II. 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::21::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::23::0::Undefined control sequence. |\lemm {\
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::23::0::Missing \begin{document}. |\lemm{\  
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::23::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 23--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::26::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 26--27
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::26::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 26--27
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::27::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 27--28
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::27::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 27--28
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::30::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Missing \begin{document}. |$ (i)$: Let $\Sigma$ be the canonical quasistrategy for player I in $G_X... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (31.22293pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (17.77774pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (5.00002pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (15.5173pt too wide) in paragraph at lines 31--32
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::31::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 31--32
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Missing \begin{document}. |\qquad To show (a), note first that $\bra{}\in T$ is not losing for pla... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Undefined control sequence. |\qquad To show (a), note first that $\bra {}\in T$ is not losing for pla...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Undefined control sequence. |...ow that player I is not losing at $p:=\bra {x_0,\hdots,x_{2n-1}}\in T...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Undefined control sequence. |...yer I is not losing at $p:=\bra{x_0,\hdots ,x_{2n-1}}\in T$. Then the...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Undefined control sequence. |...such that for every $x_{2n+1}\in X$, $p\cc \bra{x_{2n},x_{2n+1}}$ is ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Undefined control sequence. |... that for every $x_{2n+1}\in X$, $p\cc\bra {x_{2n},x_{2n+1}}$ is not ...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (9.4444pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (18.36455pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (53.9155pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (24.58913pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (34.71417pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 33--34
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::33::0::Overfull \hbox (49.89017pt too wide) in paragraph at lines 33--34
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Missing \begin{document}. |\qquad Indeed, assuming it wasn't the case we would have that no matter... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Undefined control sequence. |... $p$ would be losing for player I, $\contr $. Hence the strategy just...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Overfull \hbox (5.03125pt too wide) in paragraph at lines 35--36
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Overfull \hbox (5.03125pt too wide) in paragraph at lines 35--36
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::35::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 35--36
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Missing \begin{document}. |\qquad Now, to show (b), let $\sigma\in\Sigma$ and $y\in{^\omega X}$. B... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Undefined control sequence. |... definition of $\Sigma$, $(\sigma*y)\restr 2k$ is not losing for pla...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Undefined control sequence. |...in $[T]$ around $\sigma*y$ such that $\len (q)$ is even and $N_q\cap[...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Undefined control sequence. |...=\emptyset$. But since $q=(\sigma*y)\restr 2k$ for some $k<\omega$, ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Undefined control sequence. |...osing and not losing for player I, $\contr $. Hence $\sigma*y\in A$ a...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (15.5173pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.706pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.85835pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.96182pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (19.67136pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (11.07292pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.706pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.1667pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (19.11774pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (11.07292pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (5.2616pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (12.60071pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (19.11774pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (19.45491pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (5.00002pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (15.37842pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.96182pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (19.67136pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (4.8229pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (11.07292pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (14.706pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 37--38
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::37::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 37--38
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::39::0::Missing \begin{document}. |\qquad The argument for $(ii)$ is completely analogous. 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::39::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 39--41
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::39::0::Overfull \hbox (14.66806pt too wide) in paragraph at lines 39--41
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Undefined control sequence. |\theo [Gale-Stewart]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Missing \begin{document}. |\theo[ Gale-Stewart]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::46::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::47::0::Undefined control sequence. |...inning by Lemma \ref{canonicalquasi lemma} , so any $\sigma\in\Sigma$... | <write> ...canonicalquasi lemma' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::47::0::Reference `canonicalquasi lemma' on page  undefined.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::47::0::Undefined control sequence. |...II, using Lemma \ref{canonicalquasi lemma} again. | <write> ...canonicalquasi lemma' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::47::0::Reference `canonicalquasi lemma' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (15.5173pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (7.22223pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 42--49
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::42::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 42--49
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Undefined control sequence. |\section {Borel determinacy}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Missing \begin{document}. |\section{B orel determinacy} 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 50--52
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Overfull \hbox (17.37762pt too wide) in paragraph at lines 50--52
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Overfull \hbox (12.39433pt too wide) in paragraph at lines 50--52
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::50::0::Overfull \hbox (13.2888pt too wide) in paragraph at lines 50--52
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::54::0::The font size command \normalsize is not defined: |\defi { | there is probably something wrong with the class file. 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::54::0::Undefined control sequence. |\defi { | <write> \newlabel{ch2}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::54::0::Undefined control sequence. |\defi { | <write> ...abel{canonicalquasi lemma}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::54::0::Undefined control sequence. |\defi { | <write> \newlabel{GaleStewart theo}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::54::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Missing \begin{document}. |A \textbf{covering} $f:G_{\tilde X}(\tilde T)\to G_X(T)$ is a pair $(\p... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (20.44434pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (13.84023pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (15.33325pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::55::0::Overfull \hbox (34.83232pt too wide) in paragraph at lines 55--56
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (16.43985pt too wide) in paragraph at lines 57--58
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (20.01038pt too wide) in paragraph at lines 57--58
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 57--58
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (16.43985pt too wide) in paragraph at lines 57--58
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (25.56595pt too wide) in paragraph at lines 57--58
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::57::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 57--58
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...i_f$ maps partial strategies $\sigma\restr n$ to partial strategies ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...partial strategies $\varphi_f(\sigma\restr n)$ satisfying that if $m...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |... if $m\leq n$ then $\varphi_f(\sigma\restr m)=\varphi_f(\sigma\restr...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...i_f(\sigma\restr m)=\varphi_f(\sigma\restr n)\restr m$, which gives ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...a\restr m)=\varphi_f(\sigma\restr n)\restr m$, which gives rise to a...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...$, given by $\tilde\varphi_f(\sigma)\restr n=\varphi_f(\sigma\restr ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Undefined control sequence. |...i_f(\sigma)\restr n=\varphi_f(\sigma\restr n)$;
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (11.72575pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (12.07526pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (31.57881pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (19.33565pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (6.00235pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (44.91211pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (40.35895pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (11.72575pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (42.13432pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::59::0::Overfull \hbox (31.57881pt too wide) in paragraph at lines 59--60
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (34.93294pt too wide) in paragraph at lines 61--62
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::61::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 61--62
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Missing \begin{document}. |N ote that we can compose coverings $f:G_X(T_X)\to G_Y(T_Y)$ and $g:G_Y(... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (49.46599pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (35.32996pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (10.68396pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (48.10768pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (34.36182pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (10.12848pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (19.30556pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (19.24164pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (31.5229pt too wide) in paragraph at lines 65--66
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::65::0::Overfull \hbox (15.61465pt too wide) in paragraph at lines 65--66
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::67::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Missing \begin{document}. |A covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ \textbf{unravels} $A\su... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (16.61102pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (19.9096pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (13.00131pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (32.07301pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (12.78822pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (16.61102pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (19.9096pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (20.12491pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 68--70
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::68::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 68--70
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::71::0::Missing \begin{document}. |U nraveling coverings grants us with a sufficient condition for a game t... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::71::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 71--72
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::73::0::Undefined control sequence. |\prop {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Missing \begin{document}. |E very unraveled game $G_X(T,A)$ is determined. 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::77::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::78::0::Undefined control sequence. |...ale-Stewart Theorem \ref{GaleStewart theo} , so we have to show that ... | <write> ...ce `GaleStewart theo' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::78::0::Reference `GaleStewart theo' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (66.99248pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (66.99248pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 75--79
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::75::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 75--79
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Missing \begin{document}. |\qquad Let $x$ be a play in $G_X(T,A)$ according to $\tilde\varphi_f(\s... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (5.97226pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (34.93294pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (32.07301pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (16.27078pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (33.82182pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 80--82
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::80::0::Overfull \hbox (30.74242pt too wide) in paragraph at lines 80--82
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::83::0::Missing \begin{document}. |W e'll define a stronger notion of a \textbf{$k$-covering}, which we'll ... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::83::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 83--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::83::0::Overfull \hbox (9.35416pt too wide) in paragraph at lines 83--84
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::83::0::Overfull \hbox (41.63174pt too wide) in paragraph at lines 83--84
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::85::0::Undefined control sequence. |\defi {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Missing \begin{document}. |A covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ is a \textbf{$k$-coveri... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...a \textbf{$k$-covering} if $\tilde T\restr 2k=T\restr 2k$ and $\pi_f...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...k$-covering} if $\tilde T\restr 2k=T\restr 2k$ and $\pi_f\restr(\til...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...de T\restr 2k=T\restr 2k$ and $\pi_f\restr (\tilde T\restr 2k)=\id\re...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...\restr 2k$ and $\pi_f\restr(\tilde T\restr 2k)=\id\restr(T\restr 2k)...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...k$ and $\pi_f\restr(\tilde T\restr 2k)=\id \restr(T\restr 2k)$. A gam...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |... $\pi_f\restr(\tilde T\restr 2k)=\id\restr (T\restr 2k)$. A game $G_X...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Undefined control sequence. |...restr(\tilde T\restr 2k)=\id\restr(T\restr 2k)$. A game $G_X(T,A)$ i...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (9.35416pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (41.63174pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (28.30902pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (17.75351pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (46.97118pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (25.53131pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (9.35416pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (48.65947pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (11.52776pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 86--88
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::86::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 86--88
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::89::0::Missing \begin{document}. |N ow we'll begin with the actual argument. The substantial bit of the ar... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::89::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 89--90
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::89::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 89--90
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::91::0::Undefined control sequence. |\lemm {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Missing \begin{document}. |E very closed game $G_X(T,A)$ is $k$-unraveled for every $k<\omega$. 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::95::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::96::0::Undefined control sequence. |...a$. For a tree $S$, set $S_u:=\{v\mid u\cc v\in S\}$ and for $Y\subs...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::96::0::Undefined control sequence. |... for $Y\subset[S]$, set $Y_u:=\{x\mid u\cc x\in Y\}$. Define
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::97::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::98::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::99::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::100::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (6.70831pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (24.6933pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (15.76152pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (20.37498pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (11.70833pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (18.5833pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (12.26389pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (24.36691pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (16.27078pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (20.88425pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (13.0278pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (19.84721pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (19.13191pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (12.78815pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (20.28586pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (13.05551pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 93--100
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::93::0::Overfull \hbox (13.06369pt too wide) in paragraph at lines 93--100
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Missing \begin{document}. |W e're going to define a $k$-covering $G_{\tilde X}(\tilde T)$ of $G_X(... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Undefined control sequence. |... we're forced to say that $\tilde T\restr 2k=T\restr 2k$. However, ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Undefined control sequence. |...ed to say that $\tilde T\restr 2k=T\restr 2k$. However, at the $2k$...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::102::0::Undefined control sequence. |\game {x_0}{x_1}{\cdots}{\cdots}{x_{2k-2}}{x_{2k-1}}{(x_{2k},\Sigma_I)}{}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::102::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::102::0::Extra }, or forgotten $. |\game{x_0} {x_1}{\cdots}{\cdots}{x_{2k-2}}{x_{2k-1}}{(x_{2k},\Sigma_I)}{}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::103::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (28.30902pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (17.75351pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (10.52086pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (38.65422pt too wide) in paragraph at lines 101--103
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::101::0::Overfull \hbox (126.3904pt too wide) in paragraph at lines 101--103
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Missing \begin{document}. |w here $x_{2k}\in X$ and $\Sigma_I$ is a quasistrategy for player I in ... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Undefined control sequence. |...egy for player I in the game $G_X(T_{\bra {x_0,\hdots,x_{2k}}})$, wh...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Undefined control sequence. |...yer I in the game $G_X(T_{\bra{x_0,\hdots ,x_{2k}}})$, where we with...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Undefined control sequence. |...lity assume that in the game $G_X(T_{\bra {x_0,\hdots,x_{2k}}})$ pla...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Undefined control sequence. |... that in the game $G_X(T_{\bra{x_0,\hdots ,x_{2k}}})$ player II star...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::105::0::Undefined control sequence. |\game {x_0}{x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},u)}{x_{2k...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::105::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::105::0::Extra }, or forgotten $. |\game{x_0} {x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},u)}{x_{2k...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::106::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (24.06596pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (55.08284pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (55.08284pt too wide) in paragraph at lines 104--106
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::104::0::Overfull \hbox (168.8616pt too wide) in paragraph at lines 104--106
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Missing \begin{document}. |\qquad The \textbf{first choice} is to play $(x_{2k+1},u)$, where $x_{... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |..., where $x_{2k+1}\in X$ and $u\in T_{\bra {x_0,\hdots,x_{2k+1}}}$ is...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |...{2k+1}\in X$ and $u\in T_{\bra{x_0,\hdots ,x_{2k+1}}}$ is a sequence...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |...$\Sigma_I$ such that $u\notin (T_A)_{\bra {x_0,\hdots,x_{2k+1}}}$. F...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |...such that $u\notin (T_A)_{\bra{x_0,\hdots ,x_{2k+1}}}$. Furthermore ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |...sistent with $u$, i.e. that $u\subset\bra {x_{2k+2},x_{2k+3},\hdots}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Undefined control sequence. |...at $u\subset\bra{x_{2k+2},x_{2k+3},\hdots }$. In other words, player...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::108::0::Undefined control sequence. |\game {x_0}{x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},\Sigma_{I...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::108::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::108::0::Extra }, or forgotten $. |\game{x_0} {x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},\Sigma_{I...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::109::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (20.13322pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (30.50679pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (42.6934pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (34.19101pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (15.16898pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (40.38225pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (15.16898pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (54.67397pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (5.72458pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (16.28009pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (56.71542pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 107--109
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::107::0::Overfull \hbox (179.03568pt too wide) in paragraph at lines 107--109
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Missing \begin{document}. |\qquad The \textbf{second choice} is to play $(x_{2k+1},\Sigma_{II})$,... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Undefined control sequence. |...\in{^\omega X}\}\subset A$ and $\tau(\bra {})=x_{2k+1}$ for every $\...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (18.75128pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (18.52768pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (30.50679pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (52.86748pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (34.19101pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (26.45416pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (15.7153pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (21.45415pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (30.41388pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (23.83679pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (24.74661pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (14.94788pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (8.68884pt too wide) in paragraph at lines 110--111
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::110::0::Overfull \hbox (7.50002pt too wide) in paragraph at lines 110--111
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Missing \begin{document}. |\qquad Now say that $\tilde T$ is the tree of all the legal moves in t... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::113::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |\pi_f(\bra {x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\square),x_...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |\pi_f(\bra{x_0,\hdots ,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\square),x_...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |...2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\square ),x_{2k+2},\hdots,x_l}):=\...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |...gma_I),(x_{2k+1},\square),x_{2k+2},\hdots ,x_l}):=\bra{x_0,\hdots,x_l},
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |...k+1},\square),x_{2k+2},\hdots,x_l}):=\bra {x_0,\hdots,x_l},
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::114::0::Undefined control sequence. |...e),x_{2k+2},\hdots,x_l}):=\bra{x_0,\hdots ,x_l},
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::115::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::116::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (16.43985pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (20.01038pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (207.31984pt too wide) in paragraph at lines 112--116
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::112::0::Overfull \hbox (30.65274pt too wide) in paragraph at lines 112--116
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Missing \begin{document}. |w here $\square$ is either of the form $u$ or $\Sigma_{II}$ as describe... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Undefined control sequence. |where $\square $ is either of the form $u$ or $\Sigma_{II}$ as describe...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::118::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::119::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::119::0::Undefined control sequence. |\tilde x\in\tilde\pi_f^{-1}(A)\Lr \tilde x(2k+1)\text{ is of the form ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::119::0::Undefined control sequence. |...tilde\pi_f^{-1}(A)\Lr \tilde x(2k+1)\text { is of the form }(x_{2k+1...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::120::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::121::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 117--121
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (5.72458pt too wide) in paragraph at lines 117--121
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 117--121
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 117--121
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (59.97585pt too wide) in paragraph at lines 117--121
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::117::0::Overfull \hbox (121.90425pt too wide) in paragraph at lines 117--121
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Missing \begin{document}. |s o $\tilde\pi_f^{-1}(A)$ and $\lnot\tilde\pi_f^{-1}(A)$ are clearly op... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 122--123
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (32.07301pt too wide) in paragraph at lines 122--123
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (38.7397pt too wide) in paragraph at lines 122--123
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (32.07301pt too wide) in paragraph at lines 122--123
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (11.72575pt too wide) in paragraph at lines 122--123
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::122::0::Overfull \hbox (10.88435pt too wide) in paragraph at lines 122--123
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Missing \begin{document}. |\qquad Let $\tilde\sigma$ be a strategy in $G_{\tilde X}(\tilde T)$. W... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (19.4062pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (25.57646pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (34.93294pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 124--125
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::124::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 124--125
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Missing \begin{document}. |...tilde\sigma$ is a strategy for player I.}  
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (43.70262pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (8.9444pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (7.7305pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (5.59023pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (27.6401pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (17.0902pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (13.99994pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (30.61095pt too wide) in paragraph at lines 126--127
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::126::0::Overfull \hbox (7.55551pt too wide) in paragraph at lines 126--127
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Missing \begin{document}. |F irst of all $\sigma$ follows $\tilde\sigma$ for the first $2k$ moves.... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (10.52086pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (38.65422pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (14.62157pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (24.74661pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 128--129
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::128::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 128--129
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Missing \begin{document}. |\qquad The \textbf{first subcase} is if player I has a winning strateg... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::131::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Undefined control sequence. |G_X(T^{(I)}_{\bra {x_0,\hdots,x_{2k+1}}},\lnot A_{\bra{x_0,\hdots,x_{2k...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Undefined control sequence. |G_X(T^{(I)}_{\bra{x_0,\hdots ,x_{2k+1}}},\lnot A_{\bra{x_0,\hdots,x_{2k...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Undefined control sequence. |...{\bra{x_0,\hdots,x_{2k+1}}},\lnot A_{\bra {x_0,\hdots,x_{2k+1}}}), \...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Undefined control sequence. |...hdots,x_{2k+1}}},\lnot A_{\bra{x_0,\hdots ,x_{2k+1}}}), \tag*{$(\dag...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Undefined control sequence. |...lnot A_{\bra{x_0,\hdots,x_{2k+1}}}), \tag *{$(\dagger)$}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Missing } inserted. |...t A_{\bra{x_0,\hdots,x_{2k+1}}}), \tag*{$ (\dagger)$}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::132::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 130--134
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Overfull \hbox (20.13322pt too wide) in paragraph at lines 130--134
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Overfull \hbox (21.1471pt too wide) in paragraph at lines 130--134
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Overfull \hbox (20.5082pt too wide) in paragraph at lines 130--134
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::130::0::Overfull \hbox (126.68954pt too wide) in paragraph at lines 130--134
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Missing \begin{document}. |w here $T^{(I)}_{\bra{x_0,\hdots,x_{2k+1}}}\subset T_{\bra{x_0,\hdots,x... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |where $T^{(I)}_{\bra {x_0,\hdots,x_{2k+1}}}\subset T_{\bra{x_0,\hdots,x...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |where $T^{(I)}_{\bra{x_0,\hdots ,x_{2k+1}}}\subset T_{\bra{x_0,\hdots,x...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...\bra{x_0,\hdots,x_{2k+1}}}\subset T_{\bra {x_0,\hdots,x_{2k+1}}}$ is...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...dots,x_{2k+1}}}\subset T_{\bra{x_0,\hdots ,x_{2k+1}}}$ is the subtre...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...ven length satisfying $u\notin(T_A)_{\bra {x_0,\hdots,x_{2k+1}}}$, s...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...satisfying $u\notin(T_A)_{\bra{x_0,\hdots ,x_{2k+1}}}$, say $u=\bra{...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...{\bra{x_0,\hdots,x_{2k+1}}}$, say $u=\bra {x_{2k+2},\hdots,x_{2l-1}}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Undefined control sequence. |...,x_{2k+1}}}$, say $u=\bra{x_{2k+2},\hdots ,x_{2l-1}}$. Then
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::136::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::137::0::Undefined control sequence. |\bra {x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdot...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::137::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::137::0::Undefined control sequence. |\bra{x_0,\hdots ,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdot...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::137::0::Undefined control sequence. |...k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdots ,x_{2l-1}}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::137::0::Extra }, or forgotten $. |...I),(x_{2k+1},u),x_{2k+2},\hdots,x_{2l-1}} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::138::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::139::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (50.93776pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (40.38225pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (5.72458pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (15.16898pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (54.67397pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (16.28009pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (56.64244pt too wide) in paragraph at lines 135--139
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::135::0::Overfull \hbox (189.55597pt too wide) in paragraph at lines 135--139
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::140::0::Missing \begin{document}. |i s a legal position in $G_{\tilde X}(\tilde T)$. From here $\sigma$ st... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::140::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 140--141
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::140::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 140--141
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::140::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 140--141
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::140::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 140--141
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Missing \begin{document}. |\qquad The \textbf{second subcase} is if player II has a winning strat... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Undefined control sequence. |...ger)$ (this is where we use that $A_{\bra {x_0,\hdots,x_{2k+1}}}$ is...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Undefined control sequence. |... is where we use that $A_{\bra{x_0,\hdots ,x_{2k+1}}}$ is closed by ...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (18.75128pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (18.52768pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (21.1471pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (20.5082pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (12.22224pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (12.22224pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (42.03851pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (42.74243pt too wide) in paragraph at lines 142--143
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::142::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 142--143
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Missing \begin{document}. |\qquad This requires player II's cooperation however, since we have to... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (12.22224pt too wide) in paragraph at lines 144--145
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::144::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 144--145
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Missing \begin{document}. |...ilde\sigma$ is a strategy for player II.}  
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (43.70262pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (8.9444pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (7.7305pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (5.59023pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (27.6401pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (17.0902pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (13.99994pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (30.61095pt too wide) in paragraph at lines 146--147
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::146::0::Overfull \hbox (12.23604pt too wide) in paragraph at lines 146--147
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Missing \begin{document}. |J ust as before, $\sigma$ follows $\tilde\sigma$ for the first $2k$ mov... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (10.52086pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (14.62157pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (42.6934pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (52.86748pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 148--149
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::148::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 148--149
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Missing \begin{document}. |\qquad Define $U\subset T_{\bra{x_0,\hdots,x_{2k}}}$ as $s\in U$ iff $... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |\qquad Define $U\subset T_{\bra {x_0,\hdots,x_{2k}}}$ as $s\in U$ iff $...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |\qquad Define $U\subset T_{\bra{x_0,\hdots ,x_{2k}}}$ as $s\in U$ iff $...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |...,\hdots,x_{2k}}}$ as $s\in U$ iff $s=\bra {x_{2k+1}}\cc u$ such that...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |...}}}$ as $s\in U$ iff $s=\bra{x_{2k+1}}\cc u$ such that $x_{2k+1}\in...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |...y $\Sigma_I$ for player I in $G_X(T_{\bra {x_0,\hdots,x_{2k}}})$ suc...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Undefined control sequence. |...$ for player I in $G_X(T_{\bra{x_0,\hdots ,x_{2k}}})$ such that $\ti...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::151::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::\mathcal allowed only in math mode. |\mathcal {U}:=\{x\in [T_{\bra{x_0,\hdots,x_{2k}}}]\mid\exists s\in U:s\... 
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::   Try loading font information for OMS+cmr.
+Input File::/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd::0::0::Input File
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::   Font shape `OMS/cmr/m/n' in size <10> not available Font shape `OMS/cmsy/m/n' tried instead.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::Undefined control sequence. |\mathcal{U}:=\{x\in [T_{\bra {x_0,\hdots,x_{2k}}}]\mid\exists s\in U:s\...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::152::0::Undefined control sequence. |\mathcal{U}:=\{x\in [T_{\bra{x_0,\hdots ,x_{2k}}}]\mid\exists s\in U:s\...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::153::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::154::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (18.47354pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (31.84044pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (14.1319pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (30.47119pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (34.19101pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (5.72458pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (55.08284pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (42.6934pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (38.65422pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (11.6667pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (42.9515pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (19.68747pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (13.47353pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 150--154
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::150::0::Overfull \hbox (13.49307pt too wide) in paragraph at lines 150--154
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Missing \begin{document}. |w hich is easily seen to be an open set in $[T_{\bra{x_0,\hdots,x_{2k}}... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |...asily seen to be an open set in $[T_{\bra {x_0,\hdots,x_{2k}}}]$. No...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |...to be an open set in $[T_{\bra{x_0,\hdots ,x_{2k}}}]$. Now we'll use...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |...should play. Define the game $G_X(T_{\bra {x_0,\hdots,x_{2k}}},\lnot...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |.... Define the game $G_X(T_{\bra{x_0,\hdots ,x_{2k}}},\lnot\mathcal{U}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |... plays first and player II wins iff $\bra {x_{2k+1},x_{2k+2},\hdots}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Undefined control sequence. |...I wins iff $\bra{x_{2k+1},x_{2k+2},\hdots }\in\mathcal{U}$.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 155--156
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (37.39601pt too wide) in paragraph at lines 155--156
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (7.25137pt too wide) in paragraph at lines 155--156
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (73.44531pt too wide) in paragraph at lines 155--156
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (66.15982pt too wide) in paragraph at lines 155--156
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::155::0::Overfull \hbox (7.25137pt too wide) in paragraph at lines 155--156
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Missing \begin{document}. |\qquad The \textbf{first subcase} is if player II has a winning strate... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Undefined control sequence. |...egy for player II in $G_X(T)$ until $\bra {x_{2k+1},\hdots,x_{2l-1}}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Undefined control sequence. |...I in $G_X(T)$ until $\bra{x_{2k+1},\hdots ,x_{2l-1}}\in U$. Then set...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Undefined control sequence. |...\hdots,x_{2l-1}}\in U$. Then set $u:=\bra {x_{2k+2},\hdots,x_{2l-1}}...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Undefined control sequence. |...\in U$. Then set $u:=\bra{x_{2k+2},\hdots ,x_{2l-1}}$ and let $\Sigm...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::158::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::159::0::Undefined control sequence. |\bra {x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdot...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::159::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::159::0::Undefined control sequence. |\bra{x_0,\hdots ,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdot...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::159::0::Undefined control sequence. |...k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdots ,x_{2l-1}}.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::159::0::Extra }, or forgotten $. |...I),(x_{2k+1},u),x_{2k+2},\hdots,x_{2l-1}} .
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::160::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::161::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (20.13322pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (21.1471pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (20.5082pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (66.08684pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (19.05788pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (56.64244pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 157--161
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::157::0::Overfull \hbox (192.33376pt too wide) in paragraph at lines 157--161
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Missing \begin{document}. |\qquad The \textbf{second subcase} is if player I has a winning strate... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Undefined control sequence. |... $(x_{2k+1},u)$ since then $(x_{2k+1})\cc u\in U$ is consistent wit...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (18.75128pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (18.52768pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (21.1471pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (20.5082pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (7.25137pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (38.65422pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (42.6934pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (47.69339pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (7.91803pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 162--163
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::162::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 162--163
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Missing \begin{document}. |\qquad This means that if player I plays $(x_{2k},\Sigma_I)$ in $G_{\t... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::165::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::166::0::Undefined control sequence. |\bra {x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\Sigma_{II})}.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::166::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::166::0::Undefined control sequence. |\bra{x_0,\hdots ,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\Sigma_{II})}.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::166::0::Extra }, or forgotten $. |...(x_{2k},\Sigma_I),(x_{2k+1},\Sigma_{II})} .
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::167::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::168::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (38.65422pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (20.95543pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (52.86748pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (24.74661pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 164--168
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::164::0::Overfull \hbox (141.42097pt too wide) in paragraph at lines 164--168
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Missing \begin{document}. |\qquad Just as before though, this requires player I's cooperation. If... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (12.77086pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (15.89865pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (26.45416pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (12.77086pt too wide) in paragraph at lines 169--171
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::169::0::Overfull \hbox (11.81044pt too wide) in paragraph at lines 169--171
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::172::0::Missing \begin{document}. |B efore we move on to the proof of the theorem we need the following te... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::172::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 172--173
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::172::0::Overfull \hbox (9.09859pt too wide) in paragraph at lines 172--173
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::172::0::Overfull \hbox (39.99414pt too wide) in paragraph at lines 172--173
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Undefined control sequence. |\lemm [Existence of inverse limits]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Missing \begin{document}. |\lemm[ Existence of inverse limits]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::178::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::180::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::181::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::181::0::Undefined control sequence. |T:=\bigcup_{i<\omega}T_i\restr 2(k+i).
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::182::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::183::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (23.90569pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (66.48376pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (35.03918pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (17.18755pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (17.18755pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (15.31534pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (35.03918pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (23.3502pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (30.4404pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (9.75984pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (14.43968pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (15.28108pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (22.40273pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (36.48222pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (56.2288pt too wide) in paragraph at lines 174--183
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::174::0::Overfull \hbox (10.11182pt too wide) in paragraph at lines 174--183
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Missing \begin{document}. |T his is a pruned tree since $T_j\restr 2(k+i)=T_i\restr 2(k+i)$ for ev... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Undefined control sequence. |This is a pruned tree since $T_j\restr 2(k+i)=T_i\restr 2(k+i)$ for ev...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Undefined control sequence. |...ed tree since $T_j\restr 2(k+i)=T_i\restr 2(k+i)$ for every $j\geq ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Undefined control sequence. |...ons. Furthermore it's clear that $T\restr 2(k+i)=T_i\restr 2(k+i)$ ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Undefined control sequence. |...it's clear that $T\restr 2(k+i)=T_i\restr 2(k+i)$ holds for every $...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (32.24487pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (17.88954pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (31.3606pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (15.246pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (3.44513pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (29.42021pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (17.88954pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (31.3606pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 184--185
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::184::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 184--185
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Missing \begin{document}. |\qquad Now for $\pi_{F_i}$, set $\pi_{F_i}(s):=s$ if $\len(s)\leq 2(k+... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Undefined control sequence. |...pi_{F_i}$, set $\pi_{F_i}(s):=s$ if $\len (s)\leq 2(k+i)$ and if $\l...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Undefined control sequence. |...:=s$ if $\len(s)\leq 2(k+i)$ and if $\len (s)> 2(k+i)$ pick some $j<...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Undefined control sequence. |...+i)$ pick some $j<\omega$ such that $\len (s)\leq 2(k+j)$ and set
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::187::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::188::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::189::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::190::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (14.43968pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (40.23828pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (4.6875pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (23.02081pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (22.18756pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (23.02081pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (22.18756pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (15.246pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (23.02081pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (22.18756pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (40.23828pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (26.8093pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (26.8093pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (16.66663pt too wide) in paragraph at lines 186--190
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::186::0::Overfull \hbox (29.07857pt too wide) in paragraph at lines 186--190
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Missing \begin{document}. |\qquad The choice of $j$ doesn't matter, since $\pi_{f_j}(s)=s$ for ev... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Undefined control sequence. |...{f_j}(s)=s$ for every $j$ such that $\len (s)\leq 2(k+j)$. Lastly we...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Undefined control sequence. |...$ and define $\varphi_{F_i}(\sigma)\restr 2(k+i):=\sigma\restr 2(k+...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Undefined control sequence. |..._{F_i}(\sigma)\restr 2(k+i):=\sigma\restr 2(k+i)$ and for $j>i$ set
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::192::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::193::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::193::0::Undefined control sequence. |\varphi_{F_i}(\sigma)\restr 2(k+j):=\varphi_{f_{i+1}}\circ\cdots\circ\...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::193::0::Undefined control sequence. |...circ\cdots\circ\varphi_{f_j}(\sigma\restr 2(k+j)).
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::194::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::195::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (4.69049pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (36.8563pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (4.6875pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (4.69049pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (23.02081pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (22.18756pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (15.28108pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (51.31935pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (20.66733pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (28.26047pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (15.246pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (3.44513pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (51.31935pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (21.91269pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (27.6507pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (16.66663pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (46.82625pt too wide) in paragraph at lines 191--195
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::191::0::Overfull \hbox (15.24608pt too wide) in paragraph at lines 191--195
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Missing \begin{document}. |\qquad Note that this a well-defined partial strategy as $T_j\restr 2(... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Undefined control sequence. |...ll-defined partial strategy as $T_j\restr 2(k+j)=T\restr 2(k+j)$. A...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Undefined control sequence. |...ial strategy as $T_j\restr 2(k+j)=T\restr 2(k+j)$. As the $F_i$'s c...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (32.24487pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (19.1349pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (29.42021pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (9.75984pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (23.3502pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (30.4404pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (9.75984pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (14.43968pt too wide) in paragraph at lines 196--197
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::196::0::Overfull \hbox (15.28108pt too wide) in paragraph at lines 196--197
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Missing \begin{document}. |\qquad Fix some $i<\omega$, let $\sigma$ be a strategy in $G_X(T)$ and... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (14.00064pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (18.48895pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (14.7286pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (29.13179pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (33.75816pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (84.71107pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (53.2665pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (17.18755pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (15.246pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (38.46648pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (34.70613pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (46.04843pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (66.23743pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (18.89703pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (34.21143pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (36.02553pt too wide) in paragraph at lines 198--199
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::198::0::Overfull \hbox (32.19772pt too wide) in paragraph at lines 198--199
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Missing \begin{document}. |\qquad Now the sequence $(x_{i+j+1})_{j<\omega}$ converges to some $x\... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Undefined control sequence. |...verges to some $x\in T$ given by $x\restr 2(k+i+j)=x_{i+j}\restr 2(...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Undefined control sequence. |... given by $x\restr 2(k+i+j)=x_{i+j}\restr 2(k+i+j)$ since $\pi_{f_{...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Undefined control sequence. |...$. Since $\varphi_{F_{i+j}}(\sigma)\restr 2(k+i+j)=\sigma\restr 2(k...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Undefined control sequence. |...i+j}}(\sigma)\restr 2(k+i+j)=\sigma\restr 2(k+i+j)$ and $x_{i+j+1}$...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Undefined control sequence. |...h $\varphi_{F_{i+j+1}}(\sigma)$, $x\restr 2(k+i+j)$ is compatible w...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (52.55238pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (15.15967pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (7.23265pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (27.90283pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (19.1349pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (41.0846pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (30.18411pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (7.7778pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (22.18756pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (59.69418pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (19.1349pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (28.26047pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (29.02208pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (46.04843pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (27.90283pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (11.22293pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (8.57939pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (15.246pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (5.71527pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (6.0729pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (38.48827pt too wide) in paragraph at lines 200--202
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::200::0::Overfull \hbox (9.04456pt too wide) in paragraph at lines 200--202
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Missing \begin{document}. |T he game $G_X(T)$ in the above lemma is called the \textbf{inverse lim... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Undefined control sequence. |...$G_{X_n}(T_n)$ and is denoted by $\colimm _n G_{X_n}(T_n)$. We now h...
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (13.4166pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (25.56377pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (23.63876pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (38.88937pt too wide) in paragraph at lines 203--204
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::203::0::Overfull \hbox (44.3327pt too wide) in paragraph at lines 203--204
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::The font size command \normalsize is not defined: |\theo [Martin]{ | there is probably something wrong with the class file. 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Undefined control sequence. |\theo [Martin]{ | <write> ...label{unravel is det prop}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Undefined control sequence. |\theo [Martin]{ | <write> ...abel{closed unravel lemma}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Undefined control sequence. |\theo [Martin]{ | <write> \newlabel{inv limit lemma}{{}{\thepage  }}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Undefined control sequence. |\theo [Martin]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Missing \begin{document}. |\theo[ Martin]{ 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::209::0::Undefined control sequence. |\proof {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Undefined control sequence. |... by Proposition \ref{unravel is det prop} , it suffices to show that... | <write> ...`unravel is det prop' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Reference `unravel is det prop' on page  undefined.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Command \b invalid in math mode.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::   Try loading font information for +cmr.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::   No file cmr.fd..
+LaTeX Font Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Font shape `/cmr/m/n' undefined using `/cmr/m/n' instead.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Corrupted NFSS tables. |...}, it suffices to show that all $\b\Sigma ^0_\xi$ games $G_X(T,A)$ a... | wrong@fontshape ...message {Corrupted NFSS tables} error@fontshape else let f...
+LaTeX Font Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Font shape `/cmr/m/n' undefined using `OT1/cmr/m/n' instead.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::210::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (30.74242pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (11.70836pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (15.55553pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (15.3906pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (10.71066pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 206--211
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::206::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 206--211
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Missing \begin{document}. |\qquad Since closed games are $k$-unraveled for any $k<\omega$ by Lemm... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Undefined control sequence. |...mega$ by Lemma \ref{closed unravel lemma} and as $G_X(T,\lnot A)$ i... | <write> ...closed unravel lemma' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Reference `closed unravel lemma' on page  undefined.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (48.53061pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (11.70836pt too wide) in paragraph at lines 212--213
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::212::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 212--213
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing \begin{document}. |\qquad Assume now that $\b\Sigma^0_\eta$ games and thus also $\b\Pi^0_... 
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::215::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::216::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::217::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::218::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (12.09357pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (12.37135pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (15.8796pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (4.83508pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (16.07635pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (11.70836pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (41.86392pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (18.05553pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (39.9256pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (22.38774pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (37.3703pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (14.93748pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (49.70874pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (33.83379pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (11.98615pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (26.10416pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (9.06943pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (8.88478pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (66.48376pt too wide) in paragraph at lines 214--218
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::214::0::Overfull \hbox (35.03918pt too wide) in paragraph at lines 214--218
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Missing \begin{document}. |b e a $(k+i)$-covering unraveling $\tilde\pi_{f_{i-1}}^{-1}\circ\cdots\... 
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Command \b invalid in math mode.
+ LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Command \b invalid in math mode.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (17.18755pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (7.33403pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (27.08705pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (16.66663pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (35.4023pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (12.37135pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (15.8796pt too wide) in paragraph at lines 219--220
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::219::0::Overfull \hbox (4.83508pt too wide) in paragraph at lines 219--220
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Missing \begin{document}. |\qquad Now let $G_{\tilde X}(\tilde T):=\colimm_n G_{X_n}(T_n)$ be the... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Undefined control sequence. |... Now let $G_{\tilde X}(\tilde T):=\colimm _n G_{X_n}(T_n)$ be the in...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Undefined control sequence. |...t as given by Lemma \ref{inv limit lemma} , with corresponding cover... | <write> ...nce `inv limit lemma' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Reference `inv limit lemma' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (49.25168pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (38.88937pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (9.75984pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (16.47218pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (43.25278pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (33.57228pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (11.98615pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (47.11465pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (21.79521pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (36.55914pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (36.55914pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (15.17467pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (10.91669pt too wide) in paragraph at lines 221--222
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::221::0::Overfull \hbox (10.8293pt too wide) in paragraph at lines 221--222
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Missing \begin{document}. |\qquad Hence $\tilde\pi_{F_0}^{-1}(A)=\bigcup_n\tilde\pi_{F_0}^{-1}(A_... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Undefined control sequence. |...given by Lemma \ref{closed unravel lemma} . But then | <write> ...closed unravel lemma' on page \thepage  \space undefined\on@line .
+Reference LaTeX Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Reference `closed unravel lemma' on page  undefined.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::224::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::225::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::226::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::227::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (42.62852pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (52.95966pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (13.37495pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (48.10768pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (5.52084pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (32.07301pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (10.86105pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (9.48615pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (13.37495pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (48.10768pt too wide) in paragraph at lines 223--227
+hbox Warning::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::223::0::Overfull \hbox (30.47505pt too wide) in paragraph at lines 223--227
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::228::0::Missing \begin{document}. |i s a $k$-covering unraveling $A$ and we're done. 
+LaTeX Error::...idem/Dropbox/Games/Project/chapters/ch2.tex::0::0::Emergency stop. (job aborted, no legal \end found)
+LaTeX Error::/home/leidem/Dropbox/Games/Project/chapters/ch2.tex::0::0:: ==> Fatal error occurred, no output PDF file produced! 

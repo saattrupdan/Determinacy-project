@@ -1,0 +1,121 @@
+Input File::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::0::0::Input File
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::1::0::Undefined control sequence. |\chapter {Introduction}
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::1::0::Missing \begin{document}. |\chapter{I ntroduction} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::2::0::Undefined control sequence. |\thispagestyle{fancy}  | <argument> \undefinedpagestyle  
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::1::0::Overfull \hbox (20.0pt too wide) in paragraph at lines 1--4
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::5::0::Environment onehalfspacing undefined. |\begin{onehalfspacing}  
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Missing \begin{document}. |G ame theory is commonly subdivided into the study of \textit{finite} gam... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (9.19994pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (16.611pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (12.26659pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (9.19994pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (16.611pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (12.81657pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (10.73326pt too wide) in paragraph at lines 7--8
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::7::0::Overfull \hbox (22.23314pt too wide) in paragraph at lines 7--8
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Missing \begin{document}. |G ame theory started with Zermelo's paper \cite{Zermelo} on chess in 1913... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Undefined control sequence. |...started with Zermelo's paper \cite{Zermelo} on chess in 1913, in whic... | <write> ...: Citation `\@citeb ' on page \thepage  \space undefined\on@line .
+Citation LaTeX Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Citation `Zermelo' on page  undefined.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 9--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Overfull \hbox (5.43053pt too wide) in paragraph at lines 9--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Overfull \hbox (13.28879pt too wide) in paragraph at lines 9--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Overfull \hbox (15.71652pt too wide) in paragraph at lines 9--10
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::9::0::Overfull \hbox (26.0665pt too wide) in paragraph at lines 9--10
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::11::0::Undefined control sequence. |\theo [Zermelo]{
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::11::0::Missing \begin{document}. |\theo[ Zermelo]{ 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::11::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 11--14
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Missing \begin{document}. |S ince a winning strategy for the starting player in a finite game can b... 
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::   External font `cmex10' loaded for size <5>.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::16::0::Undefined control sequence. |\eq {
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::17::0::Missing $ inserted.
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::18::0::Extra }, or forgotten $. |} 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::19::0::Missing $ inserted.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (104.58113pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (6.54167pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (104.58113pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (13.28879pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (15.71652pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (14.82213pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (20.18875pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (113.94217pt too wide) in paragraph at lines 15--19
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::15::0::Overfull \hbox (99.49776pt too wide) in paragraph at lines 15--19
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::20::0::Missing \begin{document}. |H ence the determinacy of \textit{infinite} games can be seen as an infi... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::20::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 20--21
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::20::0::Overfull \hbox (12.26659pt too wide) in paragraph at lines 20--21
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::20::0::Overfull \hbox (9.19994pt too wide) in paragraph at lines 20--21
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::20::0::Overfull \hbox (16.611pt too wide) in paragraph at lines 20--21
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Missing \begin{document}. |T o be able to examine these infinite games more thoroughly we will view... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Undefined control sequence. |...t topology on the \textit{Baire space} $\n :={^\omega}\omega$ we can ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Undefined control sequence. |...s, which is then a subset of $[T]\subset\n $.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (19.80536pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (22.48874pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (15.71649pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (23.52205pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (22.48871pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (10.55559pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (12.37224pt too wide) in paragraph at lines 22--23
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::22::0::Overfull \hbox (23.34373pt too wide) in paragraph at lines 22--23
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Missing \begin{document}. |U sing this kind of machinery, Gale and Stewart proved that both \textit... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Undefined control sequence. |...hat it's the best possible result in $\zfc $, in that analytic determ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Undefined control sequence. |...cardinal}, which cannot be proven in $\zfc $ by Gödel's second incom...
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (19.9332pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (25.55537pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (23.01094pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (12.26659pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (13.28879pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (16.35541pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (10.73326pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (11.75546pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (16.9943pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (11.75548pt too wide) in paragraph at lines 24--25
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::24::0::Overfull \hbox (13.28882pt too wide) in paragraph at lines 24--25
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::26::0::Missing \begin{document}. |B ut why are we interested in determinacy of infinite games? This is pri... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::26::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 26--27
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Missing \begin{document}. |I n this project we'll prove that determinacy entails the above mentione... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 28--29
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (23.64984pt too wide) in paragraph at lines 28--29
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (13.54434pt too wide) in paragraph at lines 28--29
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (16.9943pt too wide) in paragraph at lines 28--29
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (11.75548pt too wide) in paragraph at lines 28--29
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::28::0::Overfull \hbox (13.28882pt too wide) in paragraph at lines 28--29
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Missing \begin{document}. |W e'll furthermore study games with \textit{imperfect information}, call... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (14.82213pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (16.9943pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (15.07764pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (12.26659pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (15.9721pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (16.86656pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (17.12212pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (27.48314pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (16.86656pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (26.5776pt too wide) in paragraph at lines 30--31
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::30::0::Overfull \hbox (29.13312pt too wide) in paragraph at lines 30--31
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::32::0::Missing \begin{document}. |A s for prerequisites we assume basic knowledge of descriptive set theor... 
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::32::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 32--33
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Missing \begin{document}. |M ost notation we're using is standard. However, some things might need ... 
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Undefined control sequence. |... parentheses to denote tuples $(x_0,\hdots ,x_n)$ and angled brackets...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Undefined control sequence. |... angled brackets to denote sequences $\bra {x_0,\hdots,x_n}$. Further...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Undefined control sequence. |...ckets to denote sequences $\bra{x_0,\hdots ,x_n}$. Furthermore we'll ...
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Undefined control sequence. |... exists some $n<\omega$ such that $t\restr n=s$.
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (18.0pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (38.02663pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (30.24883pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (15.24301pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (3.61111pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (12.74303pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (16.55786pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (6.58331pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (20.16898pt too wide) in paragraph at lines 34--35
+hbox Warning::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::34::0::Overfull \hbox (4.6875pt too wide) in paragraph at lines 34--35
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::36::0::\begin{document} ended by \end{onehalfspacing}. |\end{onehalfspacing}  
+LaTeX Error::/home/leidem/Dropbox/Games/Project/frontbackmatter/introduction.tex::36::0::Missing } inserted. |\end{onehalfspacing} 
+LaTeX Error::...es/Project/frontbackmatter/introduction.tex::0::0::Emergency stop. (job aborted, no legal \end found)
+LaTeX Error::0::0::0:: ==> Fatal error occurred, no output PDF file produced! 

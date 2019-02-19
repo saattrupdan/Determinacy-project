@@ -1,0 +1,229 @@
+\chapter{Borel determinacy}
+\thispagestyle{fancy}
+\label{ch2}
+
+Now that we've seen several positive consequences of the determinacy of games, the natural question is then whether or not we can actually find a large class of determined games.
+
+\section{Determinacy of open and closed games}
+
+\defi{
+A \textbf{quasistrategy} $\Sigma$ in $G_X(T)$ is a nonempty set of strategies. For $y\in{^\omega X}$ we define $\Sigma*y$ as the set of legal plays of the form
+\game{\sigma_0(\bra{})}{y_0}{\sigma_1(\bra{\sigma_0(\bra{}),y_0})}{y_1}{\cdots}{\cdots}{}{}
+
+where $\sigma_i\in\Sigma$ for every $i<\omega$. A quasistrategy $\Sigma$ in $G_X(T,A)$ is said to be \textbf{winning} for player I if $\bigcup_{y\in{^\omega X}}\Sigma*y\subset A$. Winning quasistrategies for player II are defined analogously.
+}
+
+Say that a position $\bra{x_0,\hdots,x_{2n-1}}\in T$ in $G_X(T,A)$ is \textbf{not losing} for player I if player II has no winning strategy from that point on. Define the \textbf{canonical quasistrategy} for player I as
+\eq{
+\Sigma:=\{\sigma\mid\godel{\sigma\text{ is a strategy for player I}}\land\forall s\in T:\godel{\sigma(s)\text{ is not losing}}\},
+}
+
+and analogously for player II.
+
+\lemm{\ 
+\label{canonicalquasi lemma}
+\begin{enumerate}
+\item If $G_X(T,A)$ is a closed game in which player II has no winning strategy, then the canonical quasistrategy for player I in $G_X(T,A)$ is a winning quasistrategy;
+\item If $G_X(T,A)$ is an open game in which player I has no winning strategy, then the canonical quasistrategy for player II in $G_X(T,A)$ is a winning quasistrategy.
+\end{enumerate}
+}
+\proof{
+$(i)$: Let $\Sigma$ be the canonical quasistrategy for player I in $G_X(T,A)$. We will show that (a) $\Sigma\neq\emptyset$ and (b) that every strategy $\sigma\in\Sigma$ is winning.
+
+\qquad To show (a), note first that $\bra{}\in T$ is not losing for player I by assumption. Assume now that player I is not losing at $p:=\bra{x_0,\hdots,x_{2n-1}}\in T$. Then there exists some $x_{2n}\in X$ such that for every $x_{2n+1}\in X$, $p\cc\bra{x_{2n},x_{2n+1}}$ is not losing for player I.
+
+\qquad Indeed, assuming it wasn't the case we would have that no matter what player I played, player II would have a play such that player II would have a winning strategy at that point. But this means exactly that player II had a winning strategy at $p$, so $p$ would be losing for player I, $\contr$. Hence the strategy just described is an element of $\Sigma$, so (a) is shown.
+
+\qquad Now, to show (b), let $\sigma\in\Sigma$ and $y\in{^\omega X}$. By definition of $\Sigma$, $(\sigma*y)\restr 2k$ is not losing for player I, for every $k<\omega$. Assume for a contradiction that $\sigma*y\notin A$. Then since $A$ is closed, $\lnot A$ is open, so there is some open neighborhood $N_q\cap[T]$ in $[T]$ around $\sigma*y$ such that $\len(q)$ is even and $N_q\cap[T]\cap A=\emptyset$. But since $q=(\sigma*y)\restr 2k$ for some $k<\omega$, we have that $q$ is both losing and not losing for player I, $\contr$. Hence $\sigma*y\in A$ and $\sigma$ is winning. Hence (b) is shown.
+
+\qquad The argument for $(ii)$ is completely analogous.
+}
+
+\theo[Gale-Stewart]{
+\label{GaleStewart theo}
+Every open or closed game is determined.
+}
+\proof{
+If player II has no winning strategy in the closed game $G_X(T,A)$, the canonical quasistrategy $\Sigma$ for player I in $G_X(T,A)$ is winning by Lemma \ref{canonicalquasi lemma}, so any $\sigma\in\Sigma$ is a winning strategy for player I in $G_X(T,A)$. The argument is analogous for open games, by swapping player I and player II, using Lemma \ref{canonicalquasi lemma} again.
+}
+
+\section{Borel determinacy}
+Now we'll work towards Martin's subliminal result stating that every Borel game is determined. To make things easier we'll introduce the notion of a \textit{covering}.
+
+\pagebreak
+\defi{
+A \textbf{covering} $f:G_{\tilde X}(\tilde T)\to G_X(T)$ is a pair $(\pi_f,\varphi_f)$ such that
+\begin{enumerate}
+\item $\pi_f:\tilde T\to T$ is monotone and length-preserving, so that we have a continuous extension $\tilde\pi_f:[\tilde T]\to[T]$;
+
+\item $\varphi_f$ maps partial strategies $\sigma\restr n$ to partial strategies $\varphi_f(\sigma\restr n)$ satisfying that if $m\leq n$ then $\varphi_f(\sigma\restr m)=\varphi_f(\sigma\restr n)\restr m$, which gives rise to an extension $\tilde\varphi_f$ defined on all strategies in $G_{\tilde X}(\tilde T)$, given by $\tilde\varphi_f(\sigma)\restr n=\varphi_f(\sigma\restr n)$;
+
+\item If $x\in T$ is played according to a strategy $\tilde\varphi_f(\sigma)$ then there's an $\tilde x\in\tilde T$ played according to $\sigma$ so that $\tilde\pi_f(\tilde x)=x$.
+\end{enumerate}
+}
+
+Note that we can compose coverings $f:G_X(T_X)\to G_Y(T_Y)$ and $g:G_Y(T_Y)\to G_Z(T_Z)$ simply by defining $g\circ f:=(\pi_g\circ\pi_f,\varphi_g\circ\varphi_f)$. It's clear that the composition is still a covering.
+
+\defi{
+A covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ \textbf{unravels} $A\subset[T]$ if $\tilde\pi_f^{-1}(A)$ is clopen in $[\tilde T]$. A game $G_X(T,A)$ is \textbf{unraveled} if there exists a covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ unraveling $A$.
+}
+
+Unraveling coverings grants us with a sufficient condition for a game to be determined, which is also considerably easier to work with.
+
+\prop{
+\label{unravel is det prop}
+Every unraveled game $G_X(T,A)$ is determined.
+}
+\proof{
+Let $f:G_{\tilde X}(\tilde T)\to G_X(T)$ be a covering unraveling $A$. First of all $G_{\tilde X}(\tilde T,\tilde\pi_f^{-1}(A))$ is determined by the Gale-Stewart Theorem \ref{GaleStewart theo}, so we have to show that if $\sigma$ is a winning strategy in $G_{\tilde X}(\tilde T,\tilde\pi_f^{-1}(A))$ then $\tilde\varphi_f(\sigma)$ is a winning strategy in $G_X(T,A)$.
+
+\qquad Let $x$ be a play in $G_X(T,A)$ according to $\tilde\varphi_f(\sigma)$. Since $f$ is a covering, there is some $\tilde x\in\tilde T$ played according to $\sigma$ such that $\tilde\pi_f(\tilde x)=x$. Then $\tilde x\in\tilde\pi_f^{-1}(A)$ as $\sigma$ is winning, so $x=\tilde\pi_f(\tilde x)\in A$. Hence $\tilde\varphi_f(\sigma)$ is winning and $G_X(A)$ is determined.
+}
+
+We'll define a stronger notion of a \textbf{$k$-covering}, which we'll need in the proof of Borel determinacy to carry out an inductive argument.
+
+\defi{
+A covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ is a \textbf{$k$-covering} if $\tilde T\restr 2k=T\restr 2k$ and $\pi_f\restr(\tilde T\restr 2k)=\id\restr(T\restr 2k)$. A game $G_X(T,A)$ is \textbf{$k$-unraveled} if there exists a $k$-covering $f:G_{\tilde X}(\tilde T)\to G_X(T)$ unraveling $A$.
+}
+
+Now we'll begin with the actual argument. The substantial bit of the argument will be the following lemma, stating that we can $k$-unravel closed games.
+
+\lemm{
+\label{closed unravel lemma}
+Every closed game $G_X(T,A)$ is $k$-unraveled for every $k<\omega$.
+}
+\proof{
+Fix a closed $G_X(T,A)$ and $k<\omega$. For a tree $S$, set $S_u:=\{v\mid u\cc v\in S\}$ and for $Y\subset[S]$, set $Y_u:=\{x\mid u\cc x\in Y\}$. Define
+\eq{
+T_A:=\{s\in T\mid\exists a\in A:s\subset a\}.
+}
+
+We're going to define a $k$-covering $G_{\tilde X}(\tilde T)$ of $G_X(T)$ by modifying a few of the rules of the game. Since it's going to be a $k$-covering, we're forced to say that $\tilde T\restr 2k=T\restr 2k$. However, at the $2k$'th turn player I plays a pair $(x_{2k},\Sigma_I)$:
+\game{x_0}{x_1}{\cdots}{\cdots}{x_{2k-2}}{x_{2k-1}}{(x_{2k},\Sigma_I)}{}
+
+where $x_{2k}\in X$ and $\Sigma_I$ is a quasistrategy for player I in the game $G_X(T_{\bra{x_0,\hdots,x_{2k}}})$, where we without loss of generality assume that in the game $G_X(T_{\bra{x_0,\hdots,x_{2k}}})$ player II starts. Now player II can play moves of two different kinds:
+\game{x_0}{x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},u)}{x_{2k+2}}{x_{2k+3}}
+
+\qquad The \textbf{first choice} is to play $(x_{2k+1},u)$, where $x_{2k+1}\in X$ and $u\in T_{\bra{x_0,\hdots,x_{2k+1}}}$ is a sequence of even length following $\Sigma_I$ such that $u\notin (T_A)_{\bra{x_0,\hdots,x_{2k+1}}}$. Furthermore we require that future moves by either player are consistent with $u$, i.e. that $u\subset\bra{x_{2k+2},x_{2k+3},\hdots}$. In other words, player II follows player I's quasistrategy, but ensures that the play will land outside $A$.
+\game{x_0}{x_1}{\cdots}{\cdots}{(x_{2k},\Sigma_I)}{(x_{2k+1},\Sigma_{II})}{x_{2k+2}}{x_{2k+3}}
+
+\qquad The \textbf{second choice} is to play $(x_{2k+1},\Sigma_{II})$, where $x_{2k+1}\in X$ and $\Sigma_{II}\subset\Sigma_I$ is a quasistrategy for player II in the game $G_X(T)$ with $\{x*\Sigma_{II}\mid x\in{^\omega X}\}\subset A$ and $\tau(\bra{})=x_{2k+1}$ for every $\tau\in\Sigma_{II}$. Furthermore we require that future moves by either player are consistent with $\Sigma_{II}$. In other words, player II follows player I's quasistrategy and ensures that the play will land \textit{in} $A$.
+
+\qquad Now say that $\tilde T$ is the tree of all the legal moves in the game just described, and since it's clear that every player has a valid move at every step of the game, $\tilde T$ is pruned. We define $\pi_f:\tilde T\to T$ as
+\eq{
+\pi_f(\bra{x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\square),x_{2k+2},\hdots,x_l}):=\bra{x_0,\hdots,x_l},
+}
+
+where $\square$ is either of the form $u$ or $\Sigma_{II}$ as described above. Notice that
+\eq{
+\tilde x\in\tilde\pi_f^{-1}(A)\Lr \tilde x(2k+1)\text{ is of the form }(x_{2k+1},\Sigma_{II}),
+}
+
+so $\tilde\pi_f^{-1}(A)$ and $\lnot\tilde\pi_f^{-1}(A)$ are clearly open, making $\tilde\pi_f^{-1}(A)$ clopen. Hence it only remains to define $\varphi_f$ and make sure that it's compatible with $\pi_f$. This turns out to involve a lot of book-keeping, so buckle up.
+
+\qquad Let $\tilde\sigma$ be a strategy in $G_{\tilde X}(\tilde T)$. We'll describe the strategy $\sigma:=\tilde\varphi_f(\tilde\sigma)$ informally, and it'll follow by construction that for every play $x$ in $G_X(T)$ played according to $\tilde\varphi_f(\tilde\sigma)$ there's a play $\tilde x$ in $G_{\tilde X}(\tilde T)$ such that $\tilde\pi_f(\tilde x)=x$. We split into the cases where $\tilde\sigma$ is a strategy for player I and player II, respectively.\\
+
+\textbf{Case 1: $\tilde\sigma$ is a strategy for player I.}
+
+First of all $\sigma$ follows $\tilde\sigma$ for the first $2k$ moves. Then $\tilde\sigma$ provides player I with $(x_{2k},\Sigma_I)$; set $\sigma$'s move to be $x_{2k}$. Now player II plays some $x_{2k+1}$ in $G_X(T)$. To determine what $\sigma$ should respond to this move, we'll split into two subcases.
+
+\qquad The \textbf{first subcase} is if player I has a winning strategy in the game
+\eq{
+G_X(T^{(I)}_{\bra{x_0,\hdots,x_{2k+1}}},\lnot A_{\bra{x_0,\hdots,x_{2k+1}}}), \tag*{$(\dagger)$}
+}
+
+where $T^{(I)}_{\bra{x_0,\hdots,x_{2k+1}}}\subset T_{\bra{x_0,\hdots,x_{2k+1}}}$ is the subtree consisting of all the moves consistent with $\Sigma_I$. In this subcase, we set $\sigma$ to follow this winning strategy. Then after finitely many moves we arrive at a minimal position $u$ of even length satisfying $u\notin(T_A)_{\bra{x_0,\hdots,x_{2k+1}}}$, say $u=\bra{x_{2k+2},\hdots,x_{2l-1}}$. Then
+\eq{
+\bra{x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdots,x_{2l-1}}
+}
+
+is a legal position in $G_{\tilde X}(\tilde T)$. From here $\sigma$ stops following the winning strategy and instead follows $\tilde\sigma$ again.
+
+\qquad The \textbf{second subcase} is if player II has a winning strategy in the game $(\dagger)$. Let $\Sigma_{II}$ be the canonical quasistrategy for player II in $(\dagger)$ (this is where we use that $A_{\bra{x_0,\hdots,x_{2k+1}}}$ is closed by assumption). Then just set $\sigma$ to follow $\tilde\sigma$'s moves under the assumption that player II played $(x_{2k},\Sigma_{II})$ in $G_{\tilde X}(\tilde T)$.
+
+\qquad This requires player II's cooperation however, since we have to make sure that player II's moves are legal moves in $G_{\tilde X}(\tilde T)$, i.e. that they are consistent with $\Sigma_{II}$. If player II deviates from $\Sigma_{II}$ then by definition of $\Sigma_{II}$ player I has a winning strategy in $(\dagger)$, so we can define $\sigma$ as in the first subcase.\\
+
+\textbf{Case 2: $\tilde\sigma$ is a strategy for player II.}
+
+Just as before, $\sigma$ follows $\tilde\sigma$ for the first $2k$ moves. Then player I plays some $x_{2k}$ in $G_X(T)$. Again we want to split into the subcases corresponding to player II's choice between moves of the form $(x_{2k+1},u)$ and $(x_{2k+1},\Sigma_{II})$ in $G_{\tilde X}(\tilde T)$, but we have to choose what $\Sigma_I$ is this time around.
+
+\qquad Define $U\subset T_{\bra{x_0,\hdots,x_{2k}}}$ as $s\in U$ iff $s=\bra{x_{2k+1}}\cc u$ such that $x_{2k+1}\in X$, $u$ has even length and there is a quasistrategy $\Sigma_I$ for player I in $G_X(T_{\bra{x_0,\hdots,x_{2k}}})$ such that $\tilde\sigma$ requires player II to play $(x_{2k+1},u)$ when player I plays $(x_{2k},\Sigma_I)$. Define
+\eq{
+\mathcal{U}:=\{x\in [T_{\bra{x_0,\hdots,x_{2k}}}]\mid\exists s\in U:s\subset x\},
+}
+
+which is easily seen to be an open set in $[T_{\bra{x_0,\hdots,x_{2k}}}]$. Now we'll use $\mathcal{U}$ to decide for us what player I should play. Define the game $G_X(T_{\bra{x_0,\hdots,x_{2k}}},\lnot\mathcal{U})$ in which player II plays first and player II wins iff $\bra{x_{2k+1},x_{2k+2},\hdots}\in\mathcal{U}$.
+
+\qquad The \textbf{first subcase} is if player II has a winning strategy in this game. Then $\sigma$ follows this winning strategy for player II in $G_X(T)$ until $\bra{x_{2k+1},\hdots,x_{2l-1}}\in U$. Then set $u:=\bra{x_{2k+2},\hdots,x_{2l-1}}$ and let $\Sigma_I$ witness the fact that the sequence is in $U$. Now from here on $\sigma$ can just follow $\tilde\sigma$ from
+\eq{
+\bra{x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},u),x_{2k+2},\hdots,x_{2l-1}}.
+}
+
+\qquad The \textbf{second subcase} is if player I has a winning strategy in this game. Since $\mathcal{U}$ was open, this game is a closed game for player I, so let $\Sigma_I$ be the canonical strategy for player I. Then if player I plays $(x_{2k},\Sigma_I)$ in $G_{\tilde X}(\tilde T)$, player II cannot play anything of the form $(x_{2k+1},u)$ since then $(x_{2k+1})\cc u\in U$ is consistent with $\Sigma_I$, contradicting the definition of $\Sigma_I$.
+
+\qquad This means that if player I plays $(x_{2k},\Sigma_I)$ in $G_{\tilde X}(\tilde T)$, player II \textit{must} respond with a move of the form $(x_{2k+1},\Sigma_{II})$. Let $\sigma$ play this $x_{2k+1}$ and then just follow $\tilde\sigma$ from
+\eq{
+\bra{x_0,\hdots,x_{2k-1},(x_{2k},\Sigma_I),(x_{2k+1},\Sigma_{II})}.
+}
+
+\qquad Just as before though, this requires player I's cooperation. If player II plays some $x_{2l}$ not consistent with $\Sigma_{II}$ then since $\Sigma_{II}$ is a quasistrategy for player II and $\Sigma_{II}\subset\Sigma_I$, $x_{2l}$ is inconsistent with $\Sigma_I$ as well, so we're back in the first subcase again.
+}
+
+Before we move on to the proof of the theorem we need the following technical lemma, which is the reason why we need to work with \textit{$k$-coverings} instead of regular coverings.
+
+\lemm[Existence of inverse limits]{
+\label{inv limit lemma}
+Let $k<\omega$ and $f_{i+1}:G_{X_{i+1}}(T_{i+1})\to G_{X_i}(T_i)$ a $(k+i)$-covering for every $i<\omega$. Then there's a game $G_X(T)$ and $(k+i)$-coverings $F_i:G_X(T)\to G_{X_i}(T_i)$ for every $i<\omega$ such that $f_{i+1}\circ F_{i+1}=F_i$. 
+}
+\proof{
+We need to define $X$, $T$ and $\pi_{F_i}$, $\varphi_{F_i}$ for every $i<\omega$. Set $X:=\bigcup_{i<\omega}X_i$ and
+\eq{
+T:=\bigcup_{i<\omega}T_i\restr 2(k+i).
+}
+
+This is a pruned tree since $T_j\restr 2(k+i)=T_i\restr 2(k+i)$ for every $j\geq i$, so the trees in the union ``agree'' in their intersections. Furthermore it's clear that $T\restr 2(k+i)=T_i\restr 2(k+i)$ holds for every $i<\omega$.
+
+\qquad Now for $\pi_{F_i}$, set $\pi_{F_i}(s):=s$ if $\len(s)\leq 2(k+i)$ and if $\len(s)> 2(k+i)$ pick some $j<\omega$ such that $\len(s)\leq 2(k+j)$ and set
+\eq{
+\pi_{F_i}(s):=\pi_{f_{i+1}}\circ\pi_{f_{i+2}}\circ\cdots\circ\pi_{f_j}(s).
+}
+
+\qquad The choice of $j$ doesn't matter, since $\pi_{f_j}(s)=s$ for every $j$ such that $\len(s)\leq 2(k+j)$. Lastly we define $\varphi_{F_i}$. Let $\sigma$ be a strategy in $G_X(T)$ and define $\varphi_{F_i}(\sigma)\restr 2(k+i):=\sigma\restr 2(k+i)$ and for $j>i$ set
+\eq{
+\varphi_{F_i}(\sigma)\restr 2(k+j):=\varphi_{f_{i+1}}\circ\cdots\circ\varphi_{f_j}(\sigma\restr 2(k+j)).
+}
+
+\qquad Note that this a well-defined partial strategy as $T_j\restr 2(k+j)=T\restr 2(k+j)$. As the $F_i$'s clearly satisfy conditions (i) and (ii) in the definition of a covering and $f_{i+1}\circ F_{i+1}=F_i$ holds by construction, we only need to check condition (iii), i.e. that $\pi_{F_i}$ and $\varphi_{F_i}$ are compatible with each other.
+
+\qquad Fix some $i<\omega$, let $\sigma$ be a strategy in $G_X(T)$ and let $x_i\in[T_i]$ be a play according to $\tilde\varphi_{F_i}(\sigma)$. Since $f_{i+j+1}:G_{X_{i+j+1}}(T_{i+j+1})\to G_{X_{i+j}}(T_{i+j})$ is a $(k+i+j)$-covering by assumption for all $j<\omega$, pick $x_{i+j+1}\in[T_{i+j+1}]$ compatible with $\varphi_{F_{i+j+1}}(\sigma)$ such that $\tilde\pi_{i+j}(x_{i+j+1})=x_{i+j}$ -- this is possible since $\varphi_{F_{i+j}}=\varphi_{f_{i+j+1}}\circ\varphi_{F_{i+j+1}}$.
+
+\qquad Now the sequence $(x_{i+j+1})_{j<\omega}$ converges to some $x\in T$ given by $x\restr 2(k+i+j)=x_{i+j}\restr 2(k+i+j)$ since $\pi_{f_{i+j+1}}$ is the identity on sequences of length $\leq 2(k+i+j)$. Since $\varphi_{F_{i+j}}(\sigma)\restr 2(k+i+j)=\sigma\restr 2(k+i+j)$ and $x_{i+j+1}$ is compatible with $\varphi_{F_{i+j+1}}(\sigma)$, $x\restr 2(k+i+j)$ is compatible with $\sigma$ for every $j<\omega$, meaning $x$ is compatible with $\sigma$ as well. Finally, we clearly have $\pi_{F_i}(x)=x_i$.
+}
+
+The game $G_X(T)$ in the above lemma is called the \textbf{inverse limit} of the games $G_{X_n}(T_n)$ and is denoted by $\colimm_n G_{X_n}(T_n)$. We now have completed our preparation and we'll move on to proving Martin's theorem.
+
+\pagebreak
+\theo[Martin]{
+Any Borel game $G_X(A)$ is determined.
+}
+\proof{
+By definition of the Borel hierachy and by Proposition \ref{unravel is det prop}, it suffices to show that all $\b\Sigma^0_\xi$ games $G_X(T,A)$ are unraveled for any $1\leq\xi<\omega_1$. We will show something slightly stronger, which is that they are not only unraveled, but $k$-unraveled for any $k<\omega$. 
+
+\qquad Since closed games are $k$-unraveled for any $k<\omega$ by Lemma \ref{closed unravel lemma} and as $G_X(T,\lnot A)$ is unraveled iff $G_X(T,A)$ is, $\b\Sigma^0_1$ games are $k$-unraveled.
+
+\qquad Assume now that $\b\Sigma^0_\eta$ games and thus also $\b\Pi^0_\eta$ games are $k$-unraveled for every $\eta<\xi$. Let $k<\omega$ and a $\b\Sigma^0_\xi$ game $G_X(T,A)$ be given. By definition, $A=\bigcup_{n<\omega}A_n$ for $A_n\in\bigcup_{\eta<\xi}\b\Pi^0_\eta$. Let $f_0:G_{X_1}(T_1)\to G_{X_0}(T)$ be a $k$-covering unraveling $A_0$ where $X_0:=X$, and recursively let
+\eq{
+f_i:G_{X_{i+1}}(T_{i+1})\to G_{X_i}(T_i)
+}
+
+be a $(k+i)$-covering unraveling $\tilde\pi_{f_{i-1}}^{-1}\circ\cdots\circ\tilde\pi_{f_1}^{-1}(A_i)$, which exists as $\b\Pi^0_\eta$ is closed under continuous preimages for $\eta<\xi$.
+
+\qquad Now let $G_{\tilde X}(\tilde T):=\colimm_n G_{X_n}(T_n)$ be the inverse limit as given by Lemma \ref{inv limit lemma}, with corresponding coverings $F_i$. Then $F_0:G_{\tilde X}(\tilde T)\to G_X(T_0)$ is a $k$-covering unraveling $A_0$ as $\tilde\pi_{F_0}^{-1}(A_0)=\tilde\pi_{F_1}^{-1}\circ\tilde\pi_{f_1}^{-1}(A_0)$, $\tilde\pi_{f_1}^{-1}(A_0)$ is clopen by assumption and $\tilde\pi_{F_0}$ is continuous. By a similar argument $F_0$ unravels every $A_i$.
+
+\qquad Hence $\tilde\pi_{F_0}^{-1}(A)=\bigcup_n\tilde\pi_{F_0}^{-1}(A_n)$ is open, so let $\tilde F:G_Y(T_Y)\to G_{\tilde X}(\tilde T)$ be a $k$-covering unraveling $\tilde\pi_{F_0}^{-1}(A)$ given by Lemma \ref{closed unravel lemma}. But then 
+\eq{
+F_0\circ\tilde F:G_Y(T_Y)\to G_X(T)
+}
+
+is a $k$-covering unraveling $A$ and we're done.
+}

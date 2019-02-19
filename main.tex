@@ -1,0 +1,43 @@
+\input{setup}
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%
+%	FRONT MATTER
+%%%%%%%%%%%%%%%%%%%%
+
+\frontmatter
+\include{frontbackmatter/titlepage}
+\include{frontbackmatter/abstract}
+
+\tableofcontents
+\thispagestyle{fancy}
+
+\include{frontbackmatter/introduction}
+
+
+%%%%%%%%%%%%%%%%%%%%
+%	MAIN MATTER
+%%%%%%%%%%%%%%%%%%%%
+
+\mainmatter
+\include{chapters/ch1}
+\include{chapters/ch2}
+\include{chapters/ch3}
+\include{chapters/ch4}
+
+
+%%%%%%%%%%%%%%%%%%%%
+%	BACK MATTER
+%%%%%%%%%%%%%%%%%%%%
+
+\appendix
+\include{frontbackmatter/apxA}
+
+\backmatter
+\bibliographystyle{alpha}
+\nocite{*}
+\bibliography{bibliography}
+\thispagestyle{fancy}
+
+\end{document}

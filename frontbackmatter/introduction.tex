@@ -1,0 +1,38 @@
+\chapter{Introduction}
+\thispagestyle{fancy}
+\setlength{\parindent}{18pt}
+
+\begin{onehalfspacing}
+
+Game theory is commonly subdivided into the study of \textit{finite} games and \textit{infinite} games, where economists and computer scientists are primarily interested in the finite case with a focus on analysing the specific strategies of the games, and set theorists being interested in the infinite case where the mere \textit{existence} of winning strategies are of primary interest. We will only work with the infinite case in this project and thus suitably ``game theory'' will only refer to infinite.
+
+Game theory started with Zermelo's paper \cite{Zermelo} on chess in 1913, in which some writers claim that he implicitly proved that chess is \textit{determined}, in the sense that either one of the players has a winning strategy or else both players can force a draw. This was then generalised to the following.
+
+\theo[Zermelo]{
+Every finite two-person game of perfect information is determined, in the sense that if the game doesn't end in a draw, one of the players has a winning strategy.
+}
+
+Since a winning strategy for the starting player in a finite game can be described as $\forall x_{2n+1}\exists x_{2n}\cdots\forall x_1\exists x_0\varphi$ for some formula $\varphi$ and analogously a winning strategy for the other player can be described as $\exists x_{2n+1}\forall x_{2n}\cdots\exists x_1\forall x_0\varphi$, the \textit{determinacy} of the game can then just be seen as de Morgan's law
+\eq{
+\lnot\forall x_n\exists x_{n-1}\cdots\forall x_1\exists x_0\varphi\equiv\exists x_n\forall x_{n-1}\cdots\exists x_1\forall x_0\varphi.
+}
+
+Hence the determinacy of \textit{infinite} games can be seen as an infinite version of de Morgan's law. Using the axiom of choice we can construct a non-determined infinite game, so this infinite de Morgan's law is not true in all generality.
+
+To be able to examine these infinite games more thoroughly we will view games as \textit{trees}, where the starting position in the game is the terminal node and the players alternate in choosing branches. Coding the set of legal moves as natural numbers, we can view the \textit{game tree} as a tree on the natural numbers $\omega$. Putting the discrete topology on $\omega$ and the product topology on the \textit{Baire space} $\n:={^\omega}\omega$ we can analyse the set of winning moves, which is then a subset of $[T]\subset\n$.
+
+Using this kind of machinery, Gale and Stewart proved that both \textit{open} and \textit{closed} games are determined. Martin then generalised this in a substantial way: that every \textit{Borel} game is determined. Harvey Friedman has shown that it's the best possible result in $\zfc$, in that analytic determinacy requires the existence of an \textit{inaccessible cardinal}, which cannot be proven in $\zfc$ by Gödel's second incompleteness Theorem.
+
+But why are we interested in determinacy of infinite games? This is primarily due to the direct impact it has on the subsets of the real numbers. If we assumed that every game over the reals was determined then every subset of the reals are Lebesgue measurable, has the Baire property as well as the perfect set property. This assumption contradicts the axiom of choice though, so we're interested in studying strong determinacy axioms consistent with choice, such as analytic determinacy.
+
+In this project we'll prove that determinacy entails the above mentioned regularity properties of the reals, prove Martin's subliminal result on the determinacy of Borel games and show that analytic determinacy can be proven if we assume the existence of a so-called \textit{Ramsey cardinal}.
+
+We'll furthermore study games with \textit{imperfect information}, called \textit{Blackwell games}, in which both players play their moves simultaneously. One can intuitively see these games as generalisations of rock-paper-scissors to infinite moves. This requires us to modify our notion of a strategy since we suddenly have to deal with \textit{chance}, and we'll draw on the theory of probability measures in this regard.
+
+As for prerequisites we assume basic knowledge of descriptive set theory, which includes some topology and measure theory. The appendix contains a list of definitions and results used in the project, for reference.
+
+Most notation we're using is standard. However, some things might need clarification: we use round parentheses to denote tuples $(x_0,\hdots,x_n)$ and angled brackets to denote sequences $\bra{x_0,\hdots,x_n}$. Furthermore we'll abuse notation and write $s\subset t$ for sequences $s,t$ to mean that there exists some $n<\omega$ such that $t\restr n=s$.
+
+\end{onehalfspacing}
+
+\setlength{\parindent}{0pt}

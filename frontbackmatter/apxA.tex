@@ -1,0 +1,165 @@
+\chapter{Preliminaries}
+\thispagestyle{fancy}
+\label{apxA}
+
+\section{Polish spaces and trees}
+
+\defi{
+A \textbf{Polish space} is a completely metrizable separable space.
+}
+
+\qprop{
+For any discrete space $X$, ${^\omega X}$ is Polish with the product topology.
+}
+
+Thus in particular the \textbf{Baire space} $\n:={^\omega\omega}$ and the \textbf{Cantor space} $\c:={^\omega 2}$ are both Polish.
+
+\defi{
+Let $X$ be a set. Then a \textbf{tree} on $X$ is a subset $T\subset{^{<\omega} X}$ which is closed under intial segments -- i.e. that for any $t\in T$ and $s\in{^{<\omega}X}$ it holds that $s\subset t\Rightarrow s\in T$.
+}
+
+\defi{
+A tree $T$ is \textbf{pruned} if any branch can be extended, i.e. that for $s\in T$ there exists $t\in T$ such that $s\subset t$.
+}
+
+\defi{
+The \textbf{body} of a tree $T$ on $X$, denoted $[T]$, is the set of \textit{infinite branches} of $T$, i.e. $[T]:=\{x\in{^\omega X}\mid \forall n<\omega: x\restr n\in T\}$.
+}
+
+We give $^\omega X$ the product topology, so that the basic open sets become sets of the form $N_s:=\{x\in{^\omega X}\mid s\subset x\}$ for $s\in{^{<\omega}X}$. Given any tree $T$ on $X$, we endow it with the corresponding subspace topology.
+
+\qprop{
+Let $X$ be a set and $T$ a pruned tree on $X$. Then $[T]$ is closed, and any closed set $C\subset{^\omega X}$ arises in this way; that is, there's a pruned tree $T$ on $X$ such that $C=[T]$.
+}
+
+\prop[ZF]{
+\label{0.8 prop}
+Suppose that $s,t\in{^{<\omega}X}$. Then
+\begin{enumerate}
+\item $N_s\cap N_t$ is either $\emptyset$, $N_s$ or $N_t$;
+\item $N_s-N_t$ is a disjoint union of basic open sets;
+\item $N_s$ is clopen;
+\item Every open set $U\subset{^\omega X}$ is a disjoint union of basic open sets.
+\end{enumerate}
+}
+\proof{
+See \cite[Exercise 0.8]{Kanamori}
+}
+
+\section{Borel and analytic sets}
+
+\defi{
+Let $X$ be a topological space. Then the \textbf{Borel sets} of $X$, denoted $\mathbb{B}(X)$, is the smallest $\sigma$-algebra containing all the open sets in $X$.
+}
+
+We can also characterize the Borel sets more constructively. For $X$ a topological space, define $\b\Sigma^0_1(X)$ to be the set of open sets in $X$ and then recursively define $\b\Pi^0_\xi:=\lnot\b\Sigma^0_\xi\cup\b\Sigma^0_\xi$ and $\b\Sigma^0_{\xi+1}:=\{\bigcup_{i<\omega}A_i\mid A_i\in\bigcup_{\eta<\xi+1}\b\Pi^0_\eta\}$.
+
+\qprop{
+For any topological space $X$ we have that $\mathbb{B}(X)=\bigcup_{\xi<\omega_1}\b\Sigma^0_\xi=\bigcup_{\xi<\omega_1}\b\Pi^0_\xi$.
+}
+
+\defi{
+Let $X$ be a Polish space. Then $A\subset X$ is \textbf{analytic} if it is the continuous image of a Polish space.
+}
+
+\prop{
+For $X$ a Polish space, $A\subset X$ is analytic iff there exists a closed subset $C\subset X\times\n$ such that $\pi_1(C)=A$, where $\pi_1:X\times\n\to X$ is the first projection.
+}
+\proof{
+See \cite[Exercise 14.3]{Kechris}
+}
+
+\theo[Lusin-Souslin]{
+Let $X$ be a Polish space. Then any Borel set $B\subset X$ is analytic.
+}
+\proof{
+See \cite[Theorem 13.7]{Kechris}.
+}
+
+\section{Baire property}
+
+\defi{
+Let $X$ be a topological space. Then a subset $A\subset X$ is \textbf{nowhere dense} if $X-\overline A$ is dense. $A$ is \textbf{meager} if it's a countable union of nowhere dense sets. $A$ is \textbf{comeager} if it's the complement of a meager set.
+}
+
+\defi{
+Two subspaces $A,B\subset X$ are \textbf{equal modulo meager sets}, written $A=_*B$, if $A\triangle B$ is meager, where $A\triangle B:=A-B\cup B-A$ is the diagonal intersection.
+}
+
+\defi{
+For $X$ any topological space, a subset $A\subset X$ has the \textbf{Baire property} if there exists an open set $U\subset\mathbb{R}$ such that $A=_*U$.
+}
+
+\theo[Baire Category Theorem]{
+\label{baire cat theo}
+Let $X$ be a completely metrizable space. Then any comeager subset $A\subset X$ is dense.
+}
+\proof{
+See \cite[Theorem 8.4]{Kechris}.
+}
+
+\prop[AC]{
+\label{bernstein prop}
+There exists a subset $A\subset\mathbb{R}$ not having the Baire property.
+}
+\proof{
+See \cite[Example 8.24]{Kechris}.
+}
+
+\section{Perfect set property}
+
+\defi{
+Let $X$ be a topological space. Then $A\subset X$ is \textbf{perfect} if it has no \textit{isolated points}, i.e. no $a\in A$ such that $\{a\}\subset X$ is open.
+}
+
+\defi{
+Let $X$ be a Polish space. Then $A\subset X$ has the \textbf{perfect set property} iff $X$ is either countable or contains a perfect set.
+}
+
+\theo{
+Let $X$ be a Polish space. Then every analytic subset $A\subset X$ has the perfect set property.
+}
+\proof{
+See \cite[Exercise 14.13]{Kechris}.
+}
+
+\section{Lebesgue measurability}
+
+\defi{
+A set $A\subset\n$ is \textbf{Lebesgue measurable} if there is a Borel set $B\subset\n$ such that $A\triangle B$ is a Lebesgue null-set.
+}
+
+We denote the Lebesgue measure as $\lambda$, both for the Borel measure and the measure on all Lebesgue measurable sets.
+
+\lemm{
+\label{0.9 lemma}
+Let $A\subset\n$ be a Lebesgue measurable set. Then
+\begin{enumerate}
+\item For any  $\varepsilon>0$ there is a closed set $C\subset\n$ and an open set $U\subset\n$ such that $C\subset A\subset U$ and $\lambda(U-C)<\varepsilon$;
+\item There is an $F_\sigma$ set $X$ and a $G_\delta$ set $Y$ such that $X\subset A\subset Y$ and $\lambda(X)=\lambda(A)=\lambda(Y)$.
+\end{enumerate}
+}
+\proof{
+See \cite[Lemma 0.9]{Kanamori}
+}
+
+\defi{
+A measurable space $(X,\mathcal{A})$ is a \textbf{standard Borel space} if there's a Polish topology $\mathcal{T}$ on $X$ such that $\mathbb{B}(\mathcal{T})=\mathcal{A}$.
+}
+
+\theo[Lusin]{
+\label{analytic meas theo}
+Let $X$ be a standard Borel space. Then every analytic subset $A\subset X$ is Lebesgue measurable.
+}
+\proof{
+See \cite[Theorem 29.7]{Kechris}.
+}
+
+\theo[Lusin]{
+\label{lusin theo}
+Let $X$ be a metrizable space and $\mu$ a finite Borel measure on $X$. Let $Y$ be a second countable topological space and $f:X\to Y$ a $\mu$-measurable function. For every $\varepsilon>0$ there is a closed set $C\subset X$ with $\mu(X-C)<\varepsilon$ such that $f\restr C$ is continuous.
+}
+\proof{
+See \cite[Theorem 17.12]{Kechris}.
+}
+

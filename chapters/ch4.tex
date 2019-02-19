@@ -1,0 +1,359 @@
+\chapter{Blackwell determinacy}
+\thispagestyle{fancy}
+\label{ch3}
+
+We now turn to a class of completely different games, namely games involving ``chance''. These games can be thought of as generalisations of rock-paper-scissors (without draws), where two players take turns simultaneously.
+
+\qquad This means that strategies aren't as straightforward as with the perfect information games, since the active player doesn't know what the other player will play in the active round. To model this scenario we'll introduce a new notion of strategies, based on \textit{probability}.
+
+\section{Blackwell games}
+
+Say that a tree $T\subset{^\omega X}$ on any set $X$ is \textbf{finitely branching} if there are only finitely many legal moves at each position, i.e. that given any $p\in T$ there is a finite subset $X_p\subset X$ such that $p\cc\bra{x}\in T$ iff $x\in X_p$.
+
+\qquad Let $X,Y$ be sets and $T\subset{^\omega(X\times Y)}$ a pruned non-empty finitely branching tree $T\subset{^\omega(X\times Y)}$. Then we can define a \textbf{Blackwell game} $\Gamma_{X,Y}(T)$ between two players I and II, who \textit{simultaneously} play elements of $X$ and $Y$, respectively:
+\bgame{x_0}{y_0}{x_1}{y_1}{x_2}{y_2}{\cdots}{\cdots}
+
+\qquad For a partial play $p\in T$, write $X_p\subset X$ and $Y_p\subset Y$ for the finite sets of legal moves at $p$ for player I and II, respectively. A \textbf{partial play} in a Blackwell game is then a finite sequence of ordered pairs $\bra{(x_0,y_0),\hdots,(x_n,y_n)}$, and we require that all partial plays lie in $T$, the tree of legal moves. This results in a \textbf{play} $\bra{(x_i,y_i)}\in{^\omega(X\times Y)}$.
+
+\qquad A \textbf{strategy} for player I in $\Gamma_{X,Y}(T)$ is a function $\sigma:T\to [0,1]^X$ which satisfies that $\sum_{x\in X_p}\sigma_p(x)=1$ and $\sigma_p(x)=0$ for every $x\notin X_p$, i.e. a function which assigns to each position a probability distribution on the legal moves at that position. Strategies for player II are defined analogously. Thus instead of having a definite choice of what player I should do, a strategy merely tells player I what the odds are.
+
+\qquad Two strategies $\sigma$ and $\tau$ for players I and II, respectively, give rise to a Borel probability measure $\mu_{\sigma,\tau}$ on $[T]$, defined as follows. We start by defining $\mu_{\sigma,\tau}(N_s)$ for $s\in T$ by recursion on $\len(s)$. For $\len(s)=0$ set $\mu_{\sigma,\tau}(N_s)=1$ and if $s$ is a one-point extension of $p$ then set
+\eq{
+\mu_{\sigma,\tau}(N_s):=\sigma(\pi_1(s(\len(s)-1)))\cdot\tau(\pi_2(s(\len(s)-1)))\cdot\mu_{\sigma,\tau}(N_p),
+}
+
+where $\pi_1:X\times Y\to X$ and $\pi_2:X\times Y\to Y$ are the projections. Then since every open set in $[T]$ is a countable disjoint union of basic opens by Proposition \ref{0.8 prop}, we set $\mu_{\sigma,\tau}(\coprod_{s_i}N_{s_i}):=\sum_{s_i}\mu_{\sigma,\tau}(N_{s_i})$. Finally, extend to all Borel sets by setting $\mu_{\sigma,\tau}(\lnot A):=1-\mu_{\sigma,\tau}(A)$ and $\mu_{\sigma,\tau}(\coprod_{i<\omega}A_i):=\sum_{i<\omega}\mu_{\sigma,\tau}(A_i)$.
+
+\qquad To be able to determine whether or not a strategy is winning, we define a \textbf{payoff function} $f:[T]\to B$ where $B\subset\mathbb{R}$ is some bounded subset of the reals. Denote the associated game by $\Gamma:=\Gamma_{X,Y}(T,f)$. If $f$ turns out to be $\mu_{\sigma,\tau}$-measurable then define the \textbf{expectation}
+\eq{
+E_{\sigma,\tau}(f):=\int fd\mu_{\sigma,\tau},
+}
+
+which indicates what the net outcome of the game for player I will be. Thus player I tries to maximize $E_{\sigma,\tau}(f)$ and player II tries to minimize it. To be able to deal with non-measurable payoff functions as well, we define
+\eq{
+E_{\sigma,\tau}^-(\Gamma)&:=\sup\{E_{\sigma,\tau}(g)\mid g\text{ is Borel measurable}\land g\leq f\}\\
+E_{\sigma,\tau}^+(\Gamma)&:=\inf\{E_{\sigma,\tau}(g)\mid g\text{ is Borel measurable}\land g\geq f\},
+}
+
+which is then best approximations of the outcome for player II and I, respectively. Note that $E_{\sigma,\tau}^-(\Gamma)=E_{\sigma,\tau}(\Gamma)=E_{\sigma,\tau}^+(\Gamma)$ if $f$ is $\mu_{\sigma,\tau}$-measurable. Now, for strategies $\sigma$ and $\tau$ in $\Gamma$ for player I and II respectively, define
+\eq{
+\val_\sigma(\Gamma)&:=\inf\{E_{\sigma,\tau}^-(\Gamma)\mid\tau\text{ is a strategy for player II}\}\\
+\val_\tau(\Gamma)&:=\sup\{E_{\sigma,\tau}^+(\Gamma)\mid\sigma\text{ is a strategy for player I}\},
+}
+
+where $\val_\sigma$ represents what the best player II can do if player I follows $\sigma$, and $\val_\tau$ represents the best player I can do if player II follows $\tau$. Thus the value of a strategy is what the worst outcome is when following the strategy. Finally we set
+\eq{
+\val_\downarrow(\Gamma)&:=\sup\{\val_\sigma(\Gamma)\mid\sigma\text{ is a strategy for player I}\}\\
+\val^\uparrow(\Gamma)&:=\inf\{\val_\tau(\Gamma)\mid\tau\text{ is a strategy for player II}\}.
+}
+
+These values then represent what the best \textit{consistent} outcome is for the two players. If it is the case that $\val_\downarrow(\Gamma)=\val^\uparrow(\Gamma)$ then we say that the game $\Gamma$ is \textbf{determined}. If this is the case, we define the \textbf{value of the game} $\Gamma$ to be
+\eq{
+\val(\Gamma):=\val_\downarrow(\Gamma)=\val^\uparrow(\Gamma).
+}
+
+\section{Blackwell determinacy}
+
+Our goal in this section is to show that determinacy of certain perfect information games implies the determinacy of all Blackwell games. Thus let us throughout the section fix a Blackwell game $\Gamma:=\Gamma_{X,Y}(T,f)$.
+
+\qquad Since we're only interested in whether or not the game is determined, we have no interest in the scale of the value and we can thus without loss of generality that $\ran f\subset[0,1]$. The crucial theorem that we're going to use extensively is the famous Minimax Theorem by von Neumann, assessing that one-step Blackwell games are determined:
+
+\theo[von Neumann's Minimax Theorem]{
+\label{vN theo}
+Any Blackwell one-step game $\Gamma$ is determined in a strong sense: there is a strategy $\sigma$ for one of the players such that $\val(\Gamma)=\val_\sigma(\Gamma)$.
+}
+\proof{
+See \cite{vonNeumann}.
+}
+
+For brewity, set $\mathcal{E}_T(p)$ to be the set of \textbf{one-point extensions} of $p\in T$; i.e. the set of $q\in T$ such that $q=p\cc\bra{(x,y)}$ for some $x\in X_p$ and $y\in Y_p$.
+
+\qquad The perfect information games that we're going to work with will be indexed by $v\in (0,1]$ and denoted $G_v$. The game $G_v$ is played as follows:
+\game{h_0}{p_1}{h_1}{p_2}{h_2}{p_3}{\cdots}{\cdots}
+
+Here $p_i\in T$ and $h_i:\mathcal{E}_T(p_i)\to[0,1]\cap\mathbb{Q}$. The rules are as follows. First of all, $\len(p_i)=i$ and $p_i\subset p_{i+1}$ for all $i<\omega$, where we set $p_0:=\bra{}$. For $i<\omega$ define the one-step Blackwell game $\Delta_i$ where both players simultaneously play elements $x\in X_{p_i}$, $y\in Y_{p_i}$:
+\bgame{x}{y}{}{}{}{}{}{}
+
+Hence the $h_i$'s can be seen as payoff functions for the $\Delta_i$ games via a suitable coding. Now, letting $v_0:=v$ and $v_{i+1}:=h_i(p_{i+1})$ for $i<\omega$, we require of $p_{i+1}$ that $v_{i+1}>0$ and of $h_i$ that $\val(\Delta_i(h_i))\geq v_i$.
+
+\qquad Now define $\pi:\tilde T\to T$ as taking each partial play $s\in\tilde T$ in $G_v$ to the union of all the moves made by player II in arriving at $s$; hence $\pi(s)=\emptyset$ if $\len(s)\leq 1$ and otherwise $\pi(s)$ is the last move made by player II. Define the extension $\tilde\pi:[\tilde T]\to [T]$ as $\tilde\pi(x):=\bigcup_{i<\omega}\pi(x\restr i)$. Now define the payoff set $A\subset\n$ as the set containing all the encoded $x\in[\tilde T]$ satisfying that
+\eq{
+\limsup_{i<\omega} v_i\leq f(\pi(x)).
+}
+
+This finishes the definition of the game $G_v(A)$.
+
+\prop{
+\label{Gv is game prop}
+$G_v(A)$ is equivalent to a perfect information game $G_{\omega}(\tilde A)$ for every $v\in (0,1]$.
+}
+\proof{
+First of all, it's clear that all the $h_i$'s and $p_i$'s can be encoded as natural numbers since $T$ is finitely branching -- note here that it's important that the codomains of the $h_i$'s are countable. We thus just need to argue that the tree $\tilde T\subset\n$ of legal moves is pruned.
+
+\qquad Player I can always just play $h_i:\equiv 1$, which trivially satisfies the requirements for $h_i$. We show that player II always has a possible legal move by induction on $i<\omega$. Firstly $\val(\Delta_0(h_0))\geq v>0$ requires that $h_0$ is not identically zero. Let thus $p_1$ be such that $h_0(p_1)\stackrel{\text{def}}{=}v_1>0$. Now assuming that $h_{i+1}$ has been given, repeat the procedure to get some $v_{i+1}>0$.
+}
+
+Now assume $\tilde\sigma$ is a winning strategy for player I in $G_v$. We'll simultaneously define
+\begin{enumerate}
+\item A strategy $\sigma$ for player I in $\Gamma$;
+\item The notion of an \textit{acceptable} position in $\Gamma$;
+\item A monotone function $\psi:\text{acc}(T)\to\tilde T$, where $\text{acc}(T)$ is the set of acceptable positions in $T$, such that $\len(\psi(p))=2\len(p)+1$, $\psi(p)$ is consistent with $\tilde\sigma$ and $\pi(\psi(p))=p$.
+\end{enumerate}
+
+This will then result in a function $\tilde\psi:[\text{acc}(T)]\to[\tilde T]$ given by $\tilde\psi(x):=\bigcup_{p\subset x}\psi(p)$ satisfying that $\tilde\psi(x)$ is consistent with $\tilde\sigma$ and $\pi(\psi(x))=x$.\\
+
+First of all, we define every extension of an unacceptable position to be unacceptable, and given any unacceptable position $p$ we define $\sigma_p:X\to [0,1]$ arbitrarily. Furthermore $\bra{}\in\acc(T)$ and we set $\psi(\bra{})=\bra{h_0}$, where $h_0=\tilde\sigma(\bra{})$.
+
+\qquad Now assume that $p\in\acc(T)$ is of length $i>0$ and we've defined $\psi(p)=\bra{h_0,\hdots,p_i,h_i}$ which is both consistent with $\tilde\sigma$ and satisfies $\pi(\psi(p))=p$. Then we define $q\in\mathcal{E}_T(p)$ to be acceptable iff $h_i(q)>0$.
+
+\qquad Because $\val(\Delta_i(h_i))\geq v_i$, we know by von Neumann's Theorem \ref{vN theo} that there exists a strategy for player I in $\Delta_i$ whose value in $\Delta_i(h_i)$ is $\geq v_i$; set $\sigma_p:X\to[0,1]$ to be the probability distribution given by that strategy. Given any $q\in\mathcal{E}_T(p)$ set $\psi(q):=\psi(p)\cc\bra{q,h_{i+1}}$ with $h_{i+1}$ given by $\tilde\sigma$. This finishes the definition of (i)-(iii).
+
+\qquad Now, to define a payoff function $g$, define first $h_i^p$ for acceptable $p\in T$ and $0\leq i\leq\len(p)$ to be the moves made by player I in reaching the position $\psi(p)\in\tilde T$. Set $v_0^p:=v$ and $v_{i+1}^p:=h_i^p(p\restr i+1)$ for $i<\len(p)$. Then define $g:[T]\to[0,1]$ as
+\eq{
+g(x):=
+\left\{
+  \begin{array}{ll}
+    \limsup_i v_i^{x\restr i} &,x\in[\text{acc}(T)]\\
+    0 &, x\notin[\text{acc}(T)]
+  \end{array}
+\right.
+}
+
+\pagebreak
+\prop{
+$g$ is Borel measurable.
+}
+\proof{
+It suffices to show that the functions $\alpha_i:[\text{acc}(T)]\to[0,1]$ given by $\alpha_i(x):=v_i^{x\restr i}$ are Borel measurable for every $i<\omega$, since $\limsup$ of a sequence of Borel measurable functions is Borel measurable. $\alpha_0$ is constant, so clearly Borel measurable. Let $a,b\in[0,1]$ with $a<b$. Then
+\eq{
+x\in\alpha_{i+1}^{-1}((a,b)) &\Lr h_i^{x\restr i+1}(x\restr i+1)\in(a,b)\\
+&\Lr x\restr i+1\in (h_i^{x\restr i+1})^{-1}((a,b)),
+}
+
+so $\alpha_{i+1}^{-1}((a,b))=\bigcup\{N_{x\restr i+1}\mid x\restr i+1\in (h_i^{x\restr i+1})^{-1}((a,b))\}$, which is open and thus Borel.
+}
+
+\lemm{
+Given any strategy $\tau$ for player II in $\Gamma$, $E_{\sigma,\tau}(\Gamma(g))\geq v$.
+}
+\proof{
+Let $\tau$ be a strategy for player II in $\Gamma$ and write $\mu:=\mu_{\sigma,\tau}$. Assume for a contradiction that
+\eq{
+E_{\sigma,\tau}(g)\stackrel{\text{def}}{=}\int g\ d\mu<v. \tag*{$(1)$}
+}
+
+Let $\varepsilon>0$ be given such that $\int g\ d\mu<v-\varepsilon$, which means that $\int 1-g\ d\mu>1-v+\varepsilon$. Now by Lusin's Theorem \ref{lusin theo}, there's a closed set $C\subset[T]$ such that $g\restr C$ is continuous and $\int_C 1-g\ d\mu>1-v+\varepsilon$.
+
+\clai{
+There exists a play $x\in[\text{acc}(T)]$ such that, for all $i<\omega$,
+\eq{
+\int_{C\cap N_{x\restr i}}1-g\ d\mu > (1-v_i^{x\restr i}+\varepsilon)\mu(N_{x\restr i}).\tag*{$(2)$}
+}
+}
+
+\cproof{
+We define $x$ by recursion on $i<\omega$. For $i=0$, (2) says that $\int_C 1-g\ d\mu>1-v+\varepsilon$, which was the defining property of $C$. Assume now that $x\restr i$ is acceptable such that (2) holds, and assume towards a contradiction that
+\eq{
+\int_{C\cap N_q}1-g\ d\mu\leq(1-h_i^{x\restr i}(q)+\varepsilon)\mu(N_q)\tag*{$(3)$}
+}
+
+holds for every $q\in\mathcal{E}_T(x\restr i)$. Note that (3) holds for all unacceptable $q\in\mathcal{E}_T(x\restr i)$ as well, since then $h_i^{x\restr i}(q)=0$ by definition of being unacceptable and thus
+\eq{
+\int_{C\cap N_q}1-g\ d\mu\leq\int_{N_q}1\ d\mu=\mu(N_q)<(1+\varepsilon)\mu(N_q).
+}
+
+Hence we have that
+\eq{
+\int_{C\cap N_{x\restr i}}1-g\ d\mu &= \sum_q\int_{C\cap N_q}1-g\ d\mu\\
+&\leq \sum_q (1-h_i^{x\restr i}(q)+\varepsilon)\mu(N_q)\\
+&=\mu(N_{x\restr i})(1+\varepsilon)-\sum_q h_i^{x\restr i}(q)\mu(N_q)\\
+&=\mu(N_{x\restr i})(1+\varepsilon-E_{\sigma,\tau}(h_i^{x\restr i}))\\
+&\leq (1-v_i^{x\restr i}+\varepsilon)\mu(N_{x\restr i}),\tag*{$(4)$}
+}
+
+where the last inequality holds because we chose $\sigma$ such that $\val_\sigma(h_i^{x\restr i})\geq v_i^{x\restr i}$ in the game $\Delta_i^{x\restr i}$ (which is completely analogous to the game $\Delta_i$), meaning that $E_{\sigma,\tau}(h_i^{x\restr i})\geq v_i^{x\restr i}$ holds for every strategy $\tau$ for player II.
+ 
+\qquad But now we see that (4) contradicts our induction hypothesis that $x\restr i$ satisfies (2), so we conclude that there is a $q\in\mathcal{E}_T(x\restr i)$ such that (3) fails, i.e. that
+\eq{
+\int_{C\cap N_q}1-g\ d\mu > (1-h_i^{x\restr i}(q)+\varepsilon)\mu(N_q)
+}
+
+holds. Thus since we showed that $h_i^{x\restr i}(q)\geq v_i^{x\restr i}$, (2) holds for $i+1$ and the claim is proven.
+}
+
+Now observe that for any $i<\omega$ there's a $y_i\in C\cap N_{x\restr i}$ such that
+\eq{
+g(y_i)<v_i^{x\restr i}-\varepsilon \tag*{$(5)$}
+}
+
+holds. Indeed, assuming that (5) fails for every $y_i\in C\cap N_{x\restr i}$, we would have that
+\eq{
+\int_{C\cap N_{x\restr i}}1-g\ d\mu\leq (1-v_i^{x\restr i}+\varepsilon)\mu(N_{x\restr i}),
+}
+
+contradicting the above claim.
+
+\qquad As $\lim_i y_i=x$, we have that $x\in C$ as $C$ is closed, and thus $g(x)=\lim_i g(y_i)$ by continuity of $g\restr C$. Use continuity to pick $j<\omega$ such that $|g(x)-g(y_i)|<\varepsilon/2$ for every $i\geq j$. This means that $g(x)<g(y_i)+\varepsilon/2<v_i^{x\restr i}-\varepsilon/2$, so
+\eq{
+g(x)\leq\limsup_i v_i^{x\restr i}-\varepsilon/2=g(x)-\varepsilon/2,
+}
+
+a contradiction. This means that (1) is false, so the lemma is proven.
+}
+
+\lemm{
+$\val_\sigma(\Gamma(f))\geq v$.
+}
+\proof{
+By the above lemma we see that $\val_\sigma(\Gamma(g))\geq v$. But since $\tilde\sigma$ was winning, we have that
+\eq{
+g(x)=\limsup_{i<\omega} v_i^{x\restr i}\leq f(\pi(\psi(x)))=f(x)
+}
+
+for every $x\in[\text{acc}(T)]$, by definition of the $v_i^{x\restr i}$'s and the rules of the game $G_v$. Hence $\val_\sigma(\Gamma(f))\geq\val_\sigma(\Gamma(g))\geq v$.
+}
+
+Dropping the assumption on $\tilde\sigma$, we've shown the following.
+
+\qlemm{
+\label{sigma lemma}
+If player I has a winning strategy in $G_v$ then $\val_\downarrow(\Gamma(f))\geq v$.
+}
+
+
+We now shift the attention to player II. Assume thus that $\tilde\tau$ is a winning strategy for player II in $G_v$. Repeating the procedure as before, we'll simultaneously define
+\begin{enumerate}
+\item A strategy $\tau$ for player II in $\Gamma$;
+\item The notion of an acceptable position in $\Gamma$;
+\item For each acceptable position $p$, a function $u_p:\mathcal{E}_T(p)\to[0,1]$;
+\item A monotone function $\psi:\text{acc}(T)\to\tilde T$ such that $\len(\psi(p))=2\len(p)$, $\psi(p)$ is consistent with $\tilde\tau$ and $\pi(\psi(p))=p$.\\
+\end{enumerate}
+
+Just as before, this will result in a function $\tilde\psi:[\text{acc}(T)]\to[\tilde T]$ given by $\tilde\psi(x):=\bigcup_{p\subset x}\psi(p)$ such that $\tilde\psi(x)$ is consistent with $\tilde\tau$ and $\pi(\psi(x))=x$.\\
+
+Every extension of an unacceptable position is unacceptable, and given any unacceptable position $p$ we define $\tau_p:X\to [0,1]$ arbitrarily. Furthermore $\bra{}\in\acc(T)$ and we set $\psi(\bra{}):=\bra{}$.
+
+\qquad Now suppose that $p\in\acc(T)$ is of length $i>0$ and we've defined $\psi(p)=\bra{h_0,\hdots,p_i}$ which is consistent with $\tilde\tau$ and satisfies $\pi(\psi(p))=p$ (i.e. that $p_i=p$ by definition of $\pi$). Then $q\in\mathcal{E}_T(p)$ is to be acceptable iff there is a legal move $h\in\tilde T$ for player I at $\psi(p)$ such that $\tilde\tau(\psi(p)\cc\bra{h})=q$. As for the definition of $u_p$, set $u_p(q):=0$ for $q\notin\acc(T)$ and 
+\eq{
+u_p(q):=\inf\{h(q)\mid\godel{h\text{ is legal in }G_v\text{ at }\psi(p)}\land\tilde\tau(\psi(p)\cc\bra{h})=q\}
+}
+
+for $q\in\acc(T)$.
+
+\lemm{
+$\val(\Delta_i(u_p))\leq v_i$.
+}
+\proof{
+Assume for a contradiction that $\val(\Delta_i(u_p))>v_i$ and let $\varepsilon>0$ be such that $\val(\Delta_i(u_p))\geq v_i+\varepsilon$. Define a function $h:T\to[0,1]$ by
+\eq{
+h(q):=\left\{\begin{array}{ll} u_p(q)-\varepsilon & ,u_p(q)>\varepsilon\\
+0 &, u_p(q)\leq\varepsilon\end{array}\right.
+}
+
+Then $h$ is a legal move for player I at the position $\psi(p)$. Now set $\bar q:=\tilde\tau(\psi(p)\cc\bra{h})$. If $u_p(\bar q)\leq\varepsilon$ then $h(\bar q)=0$, meaning $q$ is \textit{not} a legal move, $\contr$. Hence $u_p(\bar q)>\varepsilon$, but then $h(\bar q)<u_p(\bar q)$ and $u_p(\bar q)$ was the least such, $\contr$. We conclude that $\val(\Delta_i(u_p))\leq v_i$.
+}
+
+The claim, along with von Neumann's Theorem \ref{vN theo}, then gives us a strategy for player II in $\Delta_i$ whose value in $\Delta_i(u_p)$ is $\leq v_i$; set $\tau_p:X\to[0,1]$ to be the probability distribution given by that strategy.
+
+\qquad Lastly we define $\psi$. Fix some $\delta>0$. Let $q\in\mathcal{E}_T(p)$ be acceptable and $h_i$ a legal move for player I at $\psi(p)$ so that $h_i(q)\leq u_p(q)+\delta/2^{i+1}$ and $\tilde\tau(\psi(p)\cc\bra{h_i})=q$. Then set $\psi(q):=\psi(p)\cc\bra{h_i,q}$. This finishes the definition of (i)-(iv).
+
+\qquad Again we'd like to define a payoff function $g$, so analogously we define $h_i^p$ for $p\in\text{acc}(T)$ and $0\leq i<\len(p)$ as the moves made by player I in reaching the position $\psi(p)$. Let $v_0^p:=v$ and $v_{i+1}^p:=h_i^p(p\restr i+1)$ for $i<\len(p)$. Then define
+\eq{
+g(x):=\left\{\begin{array}{ll} \limsup_i v_i^{x\restr i} & ,x\in[\text{acc}(T)]\\
+1 & ,x\notin[\text{acc}(T)].\end{array}\right.
+}
+
+Just as before, we note that $g$ is Borel measurable.
+
+\lemm{
+For any strategy $\sigma$ for player I in $\Gamma$, $E_{\sigma,\tau}(\Gamma(g))\leq v+\delta$.
+}
+\proof{
+Let $\sigma$ be a strategy for player I in $\Gamma$ and set $\mu:=\mu_{\sigma,\tau}$. Assume for a contradiction that
+\eq{
+E_{\sigma,\tau}(\Gamma(g))\stackrel{\text{def}}{=}\int g\ d\mu>v+\delta \tag*{$(1)$}
+}
+
+and let $\varepsilon>0$ be given such that $\int g\ d\mu>v+\delta+\varepsilon$. Let $C\subset[T]$ be a closed set such that $g\restr C$ is continuous and $\int_C g\ d\mu>v+\delta+\varepsilon$, given by Lusin's Theorem \ref{lusin theo}.
+
+\clai{
+There exists a play $x\in[\acc(T)]$ such that, for all $i<\omega$,
+\eq{
+\int_{C\cap N_{x\restr i}}g\ d\mu>(v_i^{x\restr i}+\delta/2^i+\varepsilon)\mu(N_{x\restr i}). \tag*{$(2)$}
+}
+}
+
+\cproof{
+As $x\restr 0:=\bra{}$, (2) says that $\int_C g\ d\mu>v+\delta+\varepsilon$, which was the defining property of $C$. Now assume that $x\restr i$ has been defined such that $x\restr i$ is acceptable and (2) holds. Assume for a contradiction that
+\eq{
+\int_{C\cap N_q} g\ d\mu\leq(h_i^q(q)+\delta/2^{i+1}+\varepsilon)\mu(N_q) \tag*{$(3)$}
+}
+
+for every $q\in\mathcal{E}_T(x\restr i)$. But then
+\eq{
+\int_{C\cap N_{x\restr i}}g\ d\mu &= \sum_q\int_{C\cap N_q}g\ d\mu\\
+&\leq\sum_{q\in\acc(T)}(h_i^q(q)+\delta/2^{i+1}+\varepsilon)\mu(N_q)+\sum_{q\notin\acc(T)}\mu(C\cap N_q)\\
+&\leq\sum_q(u_{x\restr i}(q)+\delta/2^{i+1}+\delta/2^{i+1}+\varepsilon)\mu(N_q)\\
+&=\mu(N_{x\restr i})(\delta/2^i+\varepsilon)+\sum_q u_{x\restr i}(q)\mu(N_q)\\
+&=\mu(N_{x\restr i})(\delta/2^i+\varepsilon+E_{\sigma,\tau}(u_{x\restr i}))\\
+&\leq(v_i^{x\restr i}+\delta/2^i+\varepsilon)\mu(N_{x\restr i}), \tag*{$(4)$}
+}
+
+where the second inequality is because $h_i^q(q)\leq u_{x\restr i}(q)+\delta/2^{i+1}$ for acceptable $q$ by definition of $h_i^q$, and $u_{x\restr i}(q)=1$ for $q$ unacceptable. The last inequality is due to the fact that $\tau$ was chosen such that in $\Delta_i^{x\restr i}(u_{x\restr i})$, $\val_\tau(u_{x\restr i})\leq v_i^{x\restr i}$, meaning that for any strategy $\sigma$ for player I in $\Delta_i^{x\restr i}$ we have that $E_{\sigma,\tau}(u_{x\restr i})\leq v_i^{x\restr i}$. But we see that (4) contradicts (3), so the claim is shown.
+}
+
+Now we note that given any $i<\omega$ there's a $y_i\in C\cap N_{x\restr i}$ such that
+\eq{
+g(y_i)>v_i^{x\restr i}+\delta/2^i+\varepsilon. \tag*{$(5)$}
+}
+
+Indeed, assume that $(5)$ fails for every $y\in C\cap N_{x\restr i}$. Then $\int_{C\cap N_{x\restr i}}g\ d\mu\leq(v_i^{x\restr i}+\delta/2^i+\varepsilon)\mu(N_{x\restr i})$, contradicting (2).
+
+\qquad As $x=\lim_i y_i$, $x\in C$ as $C$ is closed, so $g(x)=\lim_i g(y_i)$ by continuity of $g\restr C$. Let $j<\omega$ be such that $|g(x)-g(y_i)|<\varepsilon/2$ for every $i\geq j$. Hence for every $i\geq j$ we also have
+\eq{
+g(x)>g(y_i)-\varepsilon/2>v_i^{x\restr i}+\delta/2^i+\varepsilon/2,
+}
+
+concluding that $g(x)\geq\limsup_i v_i^{x\restr i}+\varepsilon/2=g(x)+\varepsilon/2$, $\contr$. Hence (1) is false, so the lemma is proven.
+}
+
+\lemm{
+$\val_\tau(\Gamma(f))\leq v+\delta$.
+}
+\proof{
+By the above lemma, $\val_\tau(\Gamma(g))\leq v+\delta$. Since $\tilde\tau$ was winning, we get that
+\eq{
+g(x)=\limsup_{i<\omega} v_i^{x\restr i}>f(\pi(\psi(x)))=f(x)
+}
+
+for every $x\in[\acc(T)]$, by definition of the $v_i^{x\restr i}$'s and the rules of the game $G_v$. Hence $\val_\tau(\Gamma(f))\leq\val_\tau(\Gamma(g))\leq v+\delta$.
+}
+
+Dropping the assumption on $\tilde\tau$, we've shown the following.
+
+\qlemm{
+\label{tau lemma}
+If player II has a winning strategy in $G_v$ then $\val^\uparrow(\Gamma(f))\leq v$.
+}
+
+All the previous lemmas culminate in the following theorem.
+
+\theo{
+\label{gv det implies gamma det theo}
+If $G_v$ is determined for every $v\in(0,1]$, then $\Gamma(f)$ is determined.
+}
+\proof{
+Assume that all the $G_v$ are determined and set $w\in (0,1]$ to be the supremum of the $v$'s such that player I has a winning strategy in $G_v$. By Lemma \ref{sigma lemma}, $\val_\downarrow(\Gamma(f))\geq w$. By Lemma \ref{tau lemma}, $\val^\uparrow(\Gamma(f))\leq w$. Hence $\val(\Gamma(f))=w$.
+}
+
+\defi{
+The \textbf{Axiom of Blackwell Determinacy}, $\blad$, is the statement that every Blackwell game $\Gamma_{X,Y}(T,f)$ is determined.
+}
+
+\theo{
+$\zf\proves\ad\to\blad$.
+}
+\proof{
+By Proposition \ref{Gv is game prop}, all the $G_v$'s are equivalent to a game of the form $G_\omega(\tilde T)$, which are determined by $\ad$. Hence by Theorem \ref{gv det implies gamma det theo}, all Blackwell games are determined.
+}
+
